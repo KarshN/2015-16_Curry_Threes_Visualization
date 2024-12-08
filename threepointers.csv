@@ -1,0 +1,885 @@
+Season,PLAYER_NAME,GAME_DATE,HOME_TEAM,Home Team Name,Points Home,Total Points Home,AWAY_TEAM,Away Team Name,Points Away,Total Points Away,SHOT_MADE,ACTION_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,102,125,MEM,Memphis Grizzlies,81,104,TRUE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-23.5,11.95,24,3,0,5
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,99,125,MEM,Memphis Grizzlies,79,104,FALSE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,23.55,27,3,0,32
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,90,125,MEM,Memphis Grizzlies,74,104,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.4,35.55,30,3,2,43
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,82,125,MEM,Memphis Grizzlies,64,104,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-24,5.25,24,3,6,57
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,78,125,MEM,Memphis Grizzlies,55,104,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.1,36.05,30,3,9,34
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,73,125,MEM,Memphis Grizzlies,53,104,TRUE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-23.3,10.35,23,3,11,17
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,70,125,MEM,Memphis Grizzlies,50,104,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.1,24.05,26,2,0,1
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,70,125,MEM,Memphis Grizzlies,50,104,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-8.6,34.35,30,2,0,8
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,64,125,MEM,Memphis Grizzlies,42,104,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,30.45,26,2,2,48
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,61,125,MEM,Memphis Grizzlies,42,104,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,2.5,32.55,27,2,3,4
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,35,125,MEM,Memphis Grizzlies,23,104,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,6.8,36.35,31,1,0,6
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,35,125,MEM,Memphis Grizzlies,22,104,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,23.55,25,1,0,48
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,27,125,MEM,Memphis Grizzlies,16,104,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,2.2,34.35,29,1,3,21
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,27,125,MEM,Memphis Grizzlies,16,104,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,28.95,27,1,3,47
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,24,125,MEM,Memphis Grizzlies,16,104,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,8.9,30.45,26,1,4,21
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,21,125,MEM,Memphis Grizzlies,16,104,TRUE,Step Back Jump shot,Above the Break 3,Center,C,24+ ft.,0,36.55,31,1,4,44
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,12,125,MEM,Memphis Grizzlies,9,104,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.2,29.45,25,1,7,59
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,6,125,MEM,Memphis Grizzlies,4,104,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.3,29.45,27,1,9,13
+2015-16,Stephen Curry,4/13/2016,GSW,Golden State Warriors,3,125,MEM,Memphis Grizzlies,4,104,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.8,26.55,27,1,9,44
+2015-16,Stephen Curry,4/10/2016,SAS,San Antonio Spurs,75,86,GSW,Golden State Warriors,84,92,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.5,27.15,27,4,3,30
+2015-16,Stephen Curry,4/10/2016,SAS,San Antonio Spurs,53,86,GSW,Golden State Warriors,57,92,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22,18.35,25,3,3,39
+2015-16,Stephen Curry,4/10/2016,SAS,San Antonio Spurs,45,86,GSW,Golden State Warriors,45,92,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.6,7.35,23,3,7,9
+2015-16,Stephen Curry,4/10/2016,SAS,San Antonio Spurs,45,86,GSW,Golden State Warriors,43,92,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,23.25,24,3,7,59
+2015-16,Stephen Curry,4/10/2016,SAS,San Antonio Spurs,45,86,GSW,Golden State Warriors,40,92,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.9,30.45,25,3,8,31
+2015-16,Stephen Curry,4/10/2016,SAS,San Antonio Spurs,43,86,GSW,Golden State Warriors,37,92,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,23.75,25,3,9,3
+2015-16,Stephen Curry,4/10/2016,SAS,San Antonio Spurs,25,86,GSW,Golden State Warriors,18,92,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,25.55,25,2,8,56
+2015-16,Stephen Curry,4/10/2016,SAS,San Antonio Spurs,9,86,GSW,Golden State Warriors,11,92,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,22.65,24,1,5,22
+2015-16,Stephen Curry,4/10/2016,SAS,San Antonio Spurs,5,86,GSW,Golden State Warriors,2,92,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,23.75,25,1,10,0
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,99,99,GSW,Golden State Warriors,100,100,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.7,11.35,23,4,0,8
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,99,99,GSW,Golden State Warriors,100,100,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-3.5,30.45,25,4,0,30
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,93,99,GSW,Golden State Warriors,87,100,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-1.4,30.95,25,4,4,59
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,76,99,GSW,Golden State Warriors,70,100,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.8,17.25,24,3,0,6
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,74,99,GSW,Golden State Warriors,67,100,FALSE,Running Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.7,17.65,24,3,0,48
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,67,99,GSW,Golden State Warriors,65,100,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22.2,24.55,29,3,3,21
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,65,99,GSW,Golden State Warriors,65,100,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-3.5,32.15,27,3,4,8
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,59,99,GSW,Golden State Warriors,60,100,FALSE,Running Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,24.75,26,3,6,45
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,56,99,GSW,Golden State Warriors,60,100,TRUE,Running Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.9,29.45,24,3,7,36
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,50,99,GSW,Golden State Warriors,53,100,FALSE,Jump Shot,Backcourt,Back Court,BC,Back Court Shot,-15.9,65.65,62,2,0,0
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,48,99,GSW,Golden State Warriors,43,100,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-6.3,30.45,25,2,3,20
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,21,99,GSW,Golden State Warriors,28,100,FALSE,Step Back Jump shot,Right Corner 3,Right Side,R,24+ ft.,-23.5,7.85,23,1,2,24
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,17,99,GSW,Golden State Warriors,18,100,FALSE,Running Jump Shot,Above the Break 3,Center,C,24+ ft.,-5.6,29.15,24,1,6,7
+2015-16,Stephen Curry,4/9/2016,MEM,Memphis Grizzlies,17,99,GSW,Golden State Warriors,18,100,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-7.9,28.95,24,1,6,28
+2015-16,Stephen Curry,4/7/2016,GSW,Golden State Warriors,112,112,SAS,San Antonio Spurs,95,101,TRUE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,22.65,25,4,2,19
+2015-16,Stephen Curry,4/7/2016,GSW,Golden State Warriors,105,112,SAS,San Antonio Spurs,92,101,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13.3,28.05,26,4,5,9
+2015-16,Stephen Curry,4/7/2016,GSW,Golden State Warriors,69,112,SAS,San Antonio Spurs,48,101,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,0.7,30.45,25,3,6,49
+2015-16,Stephen Curry,4/7/2016,GSW,Golden State Warriors,67,112,SAS,San Antonio Spurs,48,101,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,0.4,32.15,26,3,7,39
+2015-16,Stephen Curry,4/7/2016,GSW,Golden State Warriors,52,112,SAS,San Antonio Spurs,40,101,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.6,24.55,24,3,11,44
+2015-16,Stephen Curry,4/7/2016,GSW,Golden State Warriors,41,112,SAS,San Antonio Spurs,29,101,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,25.55,25,2,4,21
+2015-16,Stephen Curry,4/7/2016,GSW,Golden State Warriors,20,112,SAS,San Antonio Spurs,15,101,FALSE,Jump Shot,Backcourt,Back Court,BC,Back Court Shot,12.9,72.75,68,1,0,0
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,117,117,MIN,Minnesota Timberwolves,124,124,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,28.45,28,5,0,17
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,114,117,MIN,Minnesota Timberwolves,118,124,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,23.05,25,5,0,50
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,106,117,MIN,Minnesota Timberwolves,103,124,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,0.7,30.95,25,4,1,24
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,104,117,MIN,Minnesota Timberwolves,100,124,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20,19.85,24,4,3,25
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,84,117,MIN,Minnesota Timberwolves,76,124,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,30.95,28,3,0,11
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,84,117,MIN,Minnesota Timberwolves,72,124,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,0.1,32.55,27,3,1,22
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,81,117,MIN,Minnesota Timberwolves,70,124,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,26.65,28,3,1,51
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,78,117,MIN,Minnesota Timberwolves,65,124,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20,19.65,24,3,3,9
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,60,117,MIN,Minnesota Timberwolves,49,124,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,1.1,30.15,24,3,9,11
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,55,117,MIN,Minnesota Timberwolves,46,124,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,27.65,30,2,0,2
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,49,117,MIN,Minnesota Timberwolves,38,124,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,24.75,25,2,3,2
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,38,117,MIN,Minnesota Timberwolves,32,124,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,24.05,27,2,6,26
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,25,117,MIN,Minnesota Timberwolves,10,124,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14,26.05,25,1,4,9
+2015-16,Stephen Curry,4/5/2016,GSW,Golden State Warriors,5,117,MIN,Minnesota Timberwolves,4,124,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,4.3,31.45,26,1,10,10
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,120,136,POR,Portland Trail Blazers,105,111,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14,29.15,27,4,4,46
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,85,136,POR,Portland Trail Blazers,76,111,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-1.7,31.65,26,3,5,35
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,85,136,POR,Portland Trail Blazers,73,111,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,28.05,29,3,5,55
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,82,136,POR,Portland Trail Blazers,71,111,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,0,31.45,26,3,6,15
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,79,136,POR,Portland Trail Blazers,70,111,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,20.85,25,3,6,44
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,76,136,POR,Portland Trail Blazers,68,111,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.6,26.05,26,3,7,22
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,67,136,POR,Portland Trail Blazers,56,111,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.4,31.45,26,3,10,20
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,54,136,POR,Portland Trail Blazers,50,111,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,5.8,34.55,29,2,3,17
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,54,136,POR,Portland Trail Blazers,50,111,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,19.15,25,2,3,49
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,47,136,POR,Portland Trail Blazers,46,111,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.3,33.45,33,2,5,27
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,31,136,POR,Portland Trail Blazers,37,111,TRUE,Step Back Jump shot,Above the Break 3,Center,C,24+ ft.,-0.9,29.95,24,1,0,10
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,18,136,POR,Portland Trail Blazers,18,111,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.7,27.55,25,1,5,44
+2015-16,Stephen Curry,4/3/2016,GSW,Golden State Warriors,12,136,POR,Portland Trail Blazers,10,111,TRUE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-22.8,9.35,23,1,8,20
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,106,106,BOS,Boston Celtics,109,109,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.3,27.05,27,4,0,5
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,101,106,BOS,Boston Celtics,105,109,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.5,9.55,23,4,0,54
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,85,106,BOS,Boston Celtics,95,109,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.6,29.15,29,4,6,38
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,79,106,BOS,Boston Celtics,78,109,TRUE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23,11.45,23,3,1,4
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,75,106,BOS,Boston Celtics,75,109,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,5.5,38.95,34,3,1,52
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,69,106,BOS,Boston Celtics,71,109,TRUE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,26.55,26,3,2,46
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,61,106,BOS,Boston Celtics,63,109,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,0,30.45,25,3,4,45
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,49,106,BOS,Boston Celtics,45,109,TRUE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,22.7,5.25,22,3,10,58
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,46,106,BOS,Boston Celtics,45,109,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.9,24.05,26,3,11,30
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,38,106,BOS,Boston Celtics,36,109,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-5.1,32.45,27,2,2,14
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,35,106,BOS,Boston Celtics,31,109,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,28.15,28,2,4,15
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,23,106,BOS,Boston Celtics,21,109,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,17.25,25,1,0,4
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,18,106,BOS,Boston Celtics,19,109,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.9,19.35,26,1,2,16
+2015-16,Stephen Curry,4/1/2016,GSW,Golden State Warriors,9,106,BOS,Boston Celtics,11,109,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.6,24.55,24,1,6,4
+2015-16,Stephen Curry,3/30/2016,UTA,Utah Jazz,85,96,GSW,Golden State Warriors,85,103,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,17.65,25,4,1,40
+2015-16,Stephen Curry,3/30/2016,UTA,Utah Jazz,82,96,GSW,Golden State Warriors,76,103,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,0.6,31.45,26,4,5,46
+2015-16,Stephen Curry,3/30/2016,UTA,Utah Jazz,62,96,GSW,Golden State Warriors,58,103,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,25.55,27,3,3,17
+2015-16,Stephen Curry,3/30/2016,UTA,Utah Jazz,59,96,GSW,Golden State Warriors,58,103,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-10.9,29.15,26,3,3,52
+2015-16,Stephen Curry,3/30/2016,UTA,Utah Jazz,57,96,GSW,Golden State Warriors,50,103,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-23,17.65,26,3,5,7
+2015-16,Stephen Curry,3/30/2016,UTA,Utah Jazz,52,96,GSW,Golden State Warriors,47,103,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,23.05,25,3,6,3
+2015-16,Stephen Curry,3/30/2016,UTA,Utah Jazz,49,96,GSW,Golden State Warriors,45,103,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,24.75,24,3,7,57
+2015-16,Stephen Curry,3/30/2016,UTA,Utah Jazz,33,96,GSW,Golden State Warriors,39,103,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,24.55,27,2,2,23
+2015-16,Stephen Curry,3/30/2016,UTA,Utah Jazz,14,96,GSW,Golden State Warriors,22,103,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,25.75,24,1,3,5
+2015-16,Stephen Curry,3/30/2016,UTA,Utah Jazz,10,96,GSW,Golden State Warriors,9,103,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,22.15,24,1,7,56
+2015-16,Stephen Curry,3/29/2016,GSW,Golden State Warriors,95,102,WAS,Washington Wizards,76,94,TRUE,Jump Bank Shot,Above the Break 3,Center,C,24+ ft.,0.1,33.05,27,4,6,7
+2015-16,Stephen Curry,3/29/2016,GSW,Golden State Warriors,64,102,WAS,Washington Wizards,60,94,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,28.05,27,3,5,39
+2015-16,Stephen Curry,3/29/2016,GSW,Golden State Warriors,49,102,WAS,Washington Wizards,46,94,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-2.4,32.45,27,2,0,27
+2015-16,Stephen Curry,3/29/2016,GSW,Golden State Warriors,42,102,WAS,Washington Wizards,46,94,TRUE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.2,10.85,23,2,1,42
+2015-16,Stephen Curry,3/29/2016,GSW,Golden State Warriors,27,102,WAS,Washington Wizards,19,94,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,33.55,33,1,0,13
+2015-16,Stephen Curry,3/29/2016,GSW,Golden State Warriors,23,102,WAS,Washington Wizards,17,94,TRUE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-23,5.95,23,1,3,43
+2015-16,Stephen Curry,3/29/2016,GSW,Golden State Warriors,14,102,WAS,Washington Wizards,10,94,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.5,7.85,23,1,6,48
+2015-16,Stephen Curry,3/29/2016,GSW,Golden State Warriors,3,102,WAS,Washington Wizards,0,94,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-4.2,29.95,25,1,11,39
+2015-16,Stephen Curry,3/27/2016,GSW,Golden State Warriors,111,117,PHI,Philadelphia 76ers,96,105,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14,27.65,26,4,4,4
+2015-16,Stephen Curry,3/27/2016,GSW,Golden State Warriors,90,117,PHI,Philadelphia 76ers,72,105,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.3,24.55,25,3,2,37
+2015-16,Stephen Curry,3/27/2016,GSW,Golden State Warriors,80,117,PHI,Philadelphia 76ers,64,105,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,20.85,24,3,7,6
+2015-16,Stephen Curry,3/27/2016,GSW,Golden State Warriors,71,117,PHI,Philadelphia 76ers,55,105,FALSE,Jump Shot,Backcourt,Back Court,BC,Back Court Shot,0.5,71.95,66,2,0,0
+2015-16,Stephen Curry,3/27/2016,GSW,Golden State Warriors,62,117,PHI,Philadelphia 76ers,48,105,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.6,25.05,25,2,4,3
+2015-16,Stephen Curry,3/27/2016,GSW,Golden State Warriors,25,117,PHI,Philadelphia 76ers,26,105,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23,10.95,23,1,1,42
+2015-16,Stephen Curry,3/27/2016,GSW,Golden State Warriors,25,117,PHI,Philadelphia 76ers,26,105,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.6,28.05,29,1,2,29
+2015-16,Stephen Curry,3/27/2016,GSW,Golden State Warriors,17,117,PHI,Philadelphia 76ers,20,105,FALSE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.1,21.65,25,1,4,52
+2015-16,Stephen Curry,3/27/2016,GSW,Golden State Warriors,15,117,PHI,Philadelphia 76ers,13,105,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.5,31.15,29,1,7,1
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,114,128,DAL,Dallas Mavericks,108,120,FALSE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,23.55,25,4,4,6
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,114,128,DAL,Dallas Mavericks,108,120,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-6.6,30.15,25,4,4,31
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,102,128,DAL,Dallas Mavericks,89,120,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-6.4,30.45,26,3,0,26
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,95,128,DAL,Dallas Mavericks,77,120,TRUE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.5,4.65,23,3,3,47
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,84,128,DAL,Dallas Mavericks,69,120,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,30.95,28,3,6,46
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,75,128,DAL,Dallas Mavericks,60,120,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-0.9,31.95,26,3,10,26
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,72,128,DAL,Dallas Mavericks,58,120,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,22,29.95,33,2,0,2
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,38,128,DAL,Dallas Mavericks,31,120,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,21.15,25,1,0,45
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,29,128,DAL,Dallas Mavericks,24,120,FALSE,Step Back Jump shot,Right Corner 3,Right Side,R,24+ ft.,-22.7,5.45,22,1,3,40
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,29,128,DAL,Dallas Mavericks,21,120,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.5,29.95,28,1,4,3
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,8,128,DAL,Dallas Mavericks,7,120,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,7.1,30.95,26,1,9,25
+2015-16,Stephen Curry,3/25/2016,GSW,Golden State Warriors,6,128,DAL,Dallas Mavericks,5,120,TRUE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.2,5.95,23,1,10,25
+2015-16,Stephen Curry,3/23/2016,GSW,Golden State Warriors,105,114,LAC,Los Angeles Clippers,91,98,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.6,7.55,23,4,2,56
+2015-16,Stephen Curry,3/23/2016,GSW,Golden State Warriors,105,114,LAC,Los Angeles Clippers,89,98,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12,29.65,27,4,3,27
+2015-16,Stephen Curry,3/23/2016,GSW,Golden State Warriors,71,114,LAC,Los Angeles Clippers,59,98,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.8,25.55,25,3,5,11
+2015-16,Stephen Curry,3/23/2016,GSW,Golden State Warriors,64,114,LAC,Los Angeles Clippers,53,98,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,25.25,26,3,8,1
+2015-16,Stephen Curry,3/23/2016,GSW,Golden State Warriors,51,114,LAC,Los Angeles Clippers,46,98,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,28.05,25,2,1,21
+2015-16,Stephen Curry,3/23/2016,GSW,Golden State Warriors,51,114,LAC,Los Angeles Clippers,46,98,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,21,18.85,25,2,2,1
+2015-16,Stephen Curry,3/23/2016,GSW,Golden State Warriors,44,114,LAC,Los Angeles Clippers,41,98,FALSE,Step Back Jump shot,Above the Break 3,Center,C,24+ ft.,-4,30.95,26,2,4,14
+2015-16,Stephen Curry,3/23/2016,GSW,Golden State Warriors,21,114,LAC,Los Angeles Clippers,25,98,FALSE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22,19.85,26,1,0,28
+2015-16,Stephen Curry,3/23/2016,GSW,Golden State Warriors,13,114,LAC,Los Angeles Clippers,12,98,TRUE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.2,6.55,23,1,5,5
+2015-16,Stephen Curry,3/23/2016,GSW,Golden State Warriors,10,114,LAC,Los Angeles Clippers,8,98,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,2.7,33.05,27,1,6,22
+2015-16,Stephen Curry,3/21/2016,MIN,Minnesota Timberwolves,101,104,GSW,Golden State Warriors,101,109,FALSE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,24.25,26,4,2,22
+2015-16,Stephen Curry,3/21/2016,MIN,Minnesota Timberwolves,99,104,GSW,Golden State Warriors,101,109,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,8.1,29.65,25,4,3,3
+2015-16,Stephen Curry,3/21/2016,MIN,Minnesota Timberwolves,87,104,GSW,Golden State Warriors,81,109,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,26.55,27,3,1,56
+2015-16,Stephen Curry,3/21/2016,MIN,Minnesota Timberwolves,72,104,GSW,Golden State Warriors,73,109,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,10.7,28.95,26,3,6,43
+2015-16,Stephen Curry,3/21/2016,MIN,Minnesota Timberwolves,58,104,GSW,Golden State Warriors,59,109,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21,25.55,29,2,0,1
+2015-16,Stephen Curry,3/21/2016,MIN,Minnesota Timberwolves,29,104,GSW,Golden State Warriors,27,109,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,28.05,25,1,0,0
+2015-16,Stephen Curry,3/21/2016,MIN,Minnesota Timberwolves,16,104,GSW,Golden State Warriors,17,109,TRUE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.6,28.45,24,1,4,35
+2015-16,Stephen Curry,3/21/2016,MIN,Minnesota Timberwolves,12,104,GSW,Golden State Warriors,12,109,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.2,21.75,25,1,6,0
+2015-16,Stephen Curry,3/21/2016,MIN,Minnesota Timberwolves,12,104,GSW,Golden State Warriors,12,109,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.2,28.45,24,1,6,18
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,87,87,GSW,Golden State Warriors,79,79,FALSE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-23.8,16.75,26,4,0,0
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,85,87,GSW,Golden State Warriors,79,79,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.7,21.65,25,4,0,11
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,84,87,GSW,Golden State Warriors,79,79,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.1,33.45,28,4,0,46
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,75,87,GSW,Golden State Warriors,74,79,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,25.05,26,4,5,13
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,55,87,GSW,Golden State Warriors,55,79,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,26.25,27,3,5,23
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,48,87,GSW,Golden State Warriors,42,79,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14,26.55,25,3,9,16
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,43,87,GSW,Golden State Warriors,35,79,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,39.35,38,2,0,50
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,28,87,GSW,Golden State Warriors,24,79,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,21.25,26,2,7,25
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,23,87,GSW,Golden State Warriors,22,79,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.3,25.05,24,2,10,2
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,14,87,GSW,Golden State Warriors,11,79,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,1.9,29.45,24,1,4,29
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,10,87,GSW,Golden State Warriors,7,79,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,25.75,27,1,6,18
+2015-16,Stephen Curry,3/19/2016,SAS,San Antonio Spurs,4,87,GSW,Golden State Warriors,2,79,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,24.05,27,1,9,54
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,108,112,GSW,Golden State Warriors,122,130,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23,6.05,23,4,1,58
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,85,112,GSW,Golden State Warriors,94,130,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.9,15.85,24,3,0,1
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,85,112,GSW,Golden State Warriors,90,130,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-7.4,29.45,25,3,2,2
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,83,112,GSW,Golden State Warriors,84,130,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,22.15,24,3,5,19
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,67,112,GSW,Golden State Warriors,73,130,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,13.5,27.55,26,2,0,2
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,63,112,GSW,Golden State Warriors,69,130,TRUE,Turnaround Bank shot,Right Corner 3,Right Side,R,24+ ft.,-23.5,5.95,23,2,1,13
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,57,112,GSW,Golden State Warriors,62,130,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,22.5,5.45,22,2,3,32
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,36,112,GSW,Golden State Warriors,42,130,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,31.65,31,1,0,0
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,34,112,GSW,Golden State Warriors,36,130,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.7,16.25,24,1,0,39
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,24,112,GSW,Golden State Warriors,20,130,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,22.65,24,1,5,26
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,10,112,GSW,Golden State Warriors,8,130,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,13.2,26.65,25,1,9,29
+2015-16,Stephen Curry,3/18/2016,DAL,Dallas Mavericks,6,112,GSW,Golden State Warriors,5,130,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,22.3,15.25,24,1,10,32
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,97,121,NYK,New York Knicks,64,85,TRUE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-23.6,5.95,23,3,0,25
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,94,121,NYK,New York Knicks,64,85,TRUE,Jump Bank Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,20.65,25,3,1,7
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,74,121,NYK,New York Knicks,48,85,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.5,9.85,22,3,7,23
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,74,121,NYK,New York Knicks,48,85,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.2,20.35,25,3,7,47
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,62,121,NYK,New York Knicks,46,85,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13,29.45,27,2,0,16
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,57,121,NYK,New York Knicks,42,85,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-7.9,29.65,25,2,2,47
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,31,121,NYK,New York Knicks,19,85,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,25.55,29,1,0,5
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,28,121,NYK,New York Knicks,15,85,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.6,28.95,30,1,1,26
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,25,121,NYK,New York Knicks,13,85,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,4.5,31.65,26,1,1,54
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,22,121,NYK,New York Knicks,10,85,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,27.05,26,1,2,34
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,7,121,NYK,New York Knicks,4,85,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,32.45,32,1,6,38
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,5,121,NYK,New York Knicks,4,85,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,1.1,30.95,25,1,7,43
+2015-16,Stephen Curry,3/16/2016,GSW,Golden State Warriors,0,121,NYK,New York Knicks,2,85,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,28.95,25,1,10,59
+2015-16,Stephen Curry,3/14/2016,GSW,Golden State Warriors,94,125,NOP,New Orleans Pelicans,69,107,TRUE,Pullup Bank shot,Above the Break 3,Center,C,24+ ft.,8.9,36.85,32,3,0,3
+2015-16,Stephen Curry,3/14/2016,GSW,Golden State Warriors,91,125,NOP,New Orleans Pelicans,65,107,TRUE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-23.5,5.95,23,3,1,14
+2015-16,Stephen Curry,3/14/2016,GSW,Golden State Warriors,88,125,NOP,New Orleans Pelicans,62,107,TRUE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15,25.55,25,3,1,45
+2015-16,Stephen Curry,3/14/2016,GSW,Golden State Warriors,67,125,NOP,New Orleans Pelicans,52,107,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,12,29.45,27,3,7,21
+2015-16,Stephen Curry,3/14/2016,GSW,Golden State Warriors,50,125,NOP,New Orleans Pelicans,48,107,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,7.8,34.05,29,2,2,36
+2015-16,Stephen Curry,3/14/2016,GSW,Golden State Warriors,40,125,NOP,New Orleans Pelicans,40,107,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,4.3,31.65,26,2,7,7
+2015-16,Stephen Curry,3/14/2016,GSW,Golden State Warriors,20,125,NOP,New Orleans Pelicans,20,107,TRUE,Step Back Jump shot,Right Corner 3,Right Side,R,24+ ft.,-23,8.05,23,1,2,43
+2015-16,Stephen Curry,3/14/2016,GSW,Golden State Warriors,8,125,NOP,New Orleans Pelicans,10,107,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,0.4,32.45,27,1,6,22
+2015-16,Stephen Curry,3/14/2016,GSW,Golden State Warriors,2,125,NOP,New Orleans Pelicans,0,107,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,21.25,26,1,10,39
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,117,123,PHX,Phoenix Suns,108,116,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.6,25.25,26,4,2,31
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,115,123,PHX,Phoenix Suns,108,116,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,4.2,30.15,25,4,3,31
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,108,123,PHX,Phoenix Suns,108,116,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,20.65,25,4,5,15
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,108,123,PHX,Phoenix Suns,108,116,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.7,29.45,25,4,5,40
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,102,123,PHX,Phoenix Suns,100,116,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,3.5,32.95,27,4,8,1
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,93,123,PHX,Phoenix Suns,95,116,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,2.4,29.95,24,4,10,23
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,93,123,PHX,Phoenix Suns,95,116,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,22.15,26,4,11,4
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,68,123,PHX,Phoenix Suns,66,116,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.8,5.45,23,3,8,41
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,68,123,PHX,Phoenix Suns,60,116,TRUE,Running Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,28.05,27,3,10,8
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,41,123,PHX,Phoenix Suns,38,116,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,24.75,24,2,6,14
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,29,123,PHX,Phoenix Suns,22,116,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,6.5,31.15,26,1,0,34
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,16,123,PHX,Phoenix Suns,16,116,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23,11.75,23,1,3,30
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,16,123,PHX,Phoenix Suns,16,116,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,0.7,30.15,24,1,4,22
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,7,123,PHX,Phoenix Suns,6,116,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,27.55,24,1,7,51
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,2,123,PHX,Phoenix Suns,4,116,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-5.8,29.95,25,1,10,33
+2015-16,Stephen Curry,3/12/2016,GSW,Golden State Warriors,0,123,PHX,Phoenix Suns,0,116,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.9,28.05,24,1,11,45
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,110,128,POR,Portland Trail Blazers,83,112,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,26.05,26,3,0,33
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,110,128,POR,Portland Trail Blazers,83,112,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.3,19.15,25,3,1,9
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,104,128,POR,Portland Trail Blazers,77,112,FALSE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-22.8,5.25,22,3,3,3
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,100,128,POR,Portland Trail Blazers,68,112,TRUE,Step Back Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.3,8.35,23,3,5,4
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,86,128,POR,Portland Trail Blazers,63,112,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,29.45,26,3,10,31
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,84,128,POR,Portland Trail Blazers,61,112,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.8,25.25,25,3,11,47
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,70,128,POR,Portland Trail Blazers,51,112,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,2.4,31.45,26,2,2,57
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,40,128,POR,Portland Trail Blazers,27,112,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.6,26.25,26,1,0,11
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,32,128,POR,Portland Trail Blazers,17,112,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.1,28.95,25,1,2,38
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,32,128,POR,Portland Trail Blazers,17,112,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,6.8,30.15,25,1,3,2
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,27,128,POR,Portland Trail Blazers,13,112,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,21.25,25,1,4,9
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,24,128,POR,Portland Trail Blazers,13,112,TRUE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23,5.45,23,1,4,28
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,21,128,POR,Portland Trail Blazers,11,112,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.4,21.15,26,1,4,55
+2015-16,Stephen Curry,3/11/2016,GSW,Golden State Warriors,10,128,POR,Portland Trail Blazers,8,112,FALSE,Step Back Jump shot,Above the Break 3,Center,C,24+ ft.,5.2,30.95,26,1,7,15
+2015-16,Stephen Curry,3/9/2016,GSW,Golden State Warriors,106,115,UTA,Utah Jazz,84,94,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21,23.55,27,4,4,9
+2015-16,Stephen Curry,3/9/2016,GSW,Golden State Warriors,56,115,UTA,Utah Jazz,46,94,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.2,30.95,28,3,9,32
+2015-16,Stephen Curry,3/9/2016,GSW,Golden State Warriors,52,115,UTA,Utah Jazz,41,94,TRUE,Pullup Bank shot,Backcourt,Back Court,BC,Back Court Shot,-15.1,57.95,54,2,0,0
+2015-16,Stephen Curry,3/9/2016,GSW,Golden State Warriors,46,115,UTA,Utah Jazz,41,94,TRUE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.9,21.65,25,2,0,58
+2015-16,Stephen Curry,3/9/2016,GSW,Golden State Warriors,39,115,UTA,Utah Jazz,32,94,TRUE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,23.55,25,2,3,12
+2015-16,Stephen Curry,3/9/2016,GSW,Golden State Warriors,19,115,UTA,Utah Jazz,14,94,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,22.7,5.95,22,1,3,7
+2015-16,Stephen Curry,3/9/2016,GSW,Golden State Warriors,15,115,UTA,Utah Jazz,12,94,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,11.5,29.15,26,1,4,29
+2015-16,Stephen Curry,3/9/2016,GSW,Golden State Warriors,9,115,UTA,Utah Jazz,8,94,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,27.65,25,1,7,24
+2015-16,Stephen Curry,3/9/2016,GSW,Golden State Warriors,2,115,UTA,Utah Jazz,4,94,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.5,19.85,25,1,9,47
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,111,119,ORL,Orlando Magic,102,113,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.1,30.95,25,4,3,5
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,109,119,ORL,Orlando Magic,100,113,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,28.95,28,4,3,58
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,94,119,ORL,Orlando Magic,77,113,FALSE,Jump Shot,Backcourt,Back Court,BC,Back Court Shot,-20.9,72.05,69,3,0,0
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,94,119,ORL,Orlando Magic,77,113,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.7,17.65,24,3,0,25
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,89,119,ORL,Orlando Magic,73,113,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,12.9,29.65,27,3,1,52
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,81,119,ORL,Orlando Magic,73,113,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-10.1,30.15,26,3,3,31
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,67,119,ORL,Orlando Magic,48,113,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.7,28.05,24,3,9,25
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,59,119,ORL,Orlando Magic,46,113,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.6,40.25,35,2,0,0
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,55,119,ORL,Orlando Magic,44,113,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,25.55,25,2,1,13
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,24,119,ORL,Orlando Magic,12,113,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,1.7,31.45,26,1,3,38
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,11,119,ORL,Orlando Magic,10,113,FALSE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.2,7.85,23,1,6,50
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,9,119,ORL,Orlando Magic,8,113,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.8,26.05,25,1,8,40
+2015-16,Stephen Curry,3/7/2016,GSW,Golden State Warriors,4,119,ORL,Orlando Magic,4,113,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,23.05,27,1,9,54
+2015-16,Stephen Curry,3/6/2016,LAL,Los Angeles Lakers,91,112,GSW,Golden State Warriors,75,95,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.4,30.15,24,4,6,32
+2015-16,Stephen Curry,3/6/2016,LAL,Los Angeles Lakers,84,112,GSW,Golden State Warriors,71,95,FALSE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,24.05,24,4,9,0
+2015-16,Stephen Curry,3/6/2016,LAL,Los Angeles Lakers,75,112,GSW,Golden State Warriors,64,95,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.6,28.65,28,3,0,2
+2015-16,Stephen Curry,3/6/2016,LAL,Los Angeles Lakers,75,112,GSW,Golden State Warriors,62,95,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,0,32.55,27,3,2,46
+2015-16,Stephen Curry,3/6/2016,LAL,Los Angeles Lakers,63,112,GSW,Golden State Warriors,49,95,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,6.8,28.95,24,3,3,51
+2015-16,Stephen Curry,3/6/2016,LAL,Los Angeles Lakers,16,112,GSW,Golden State Warriors,18,95,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,27.05,26,3,10,39
+2015-16,Stephen Curry,3/6/2016,LAL,Los Angeles Lakers,8,112,GSW,Golden State Warriors,8,95,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,1.1,29.65,24,1,2,58
+2015-16,Stephen Curry,3/6/2016,LAL,Los Angeles Lakers,2,112,GSW,Golden State Warriors,3,95,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,26.55,25,1,10,0
+2015-16,Stephen Curry,3/6/2016,LAL,Los Angeles Lakers,0,112,GSW,Golden State Warriors,3,95,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,26.05,26,1,10,34
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,119,121,OKC,Oklahoma City Thunder,104,106,TRUE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,24.55,26,4,0,44
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,114,121,OKC,Oklahoma City Thunder,100,106,TRUE,Step Back Jump shot,Above the Break 3,Center,C,24+ ft.,-4.5,30.95,26,4,2,16
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,101,121,OKC,Oklahoma City Thunder,97,106,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.2,11.35,23,4,5,7
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,82,121,OKC,Oklahoma City Thunder,83,106,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.8,33.95,31,3,0,7
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,77,121,OKC,Oklahoma City Thunder,81,106,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16,30.45,29,3,2,4
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,71,121,OKC,Oklahoma City Thunder,80,106,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.9,26.05,26,3,4,30
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,65,121,OKC,Oklahoma City Thunder,68,106,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21,18.65,24,3,7,54
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,63,121,OKC,Oklahoma City Thunder,67,106,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.8,29.45,28,3,9,18
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,61,121,OKC,Oklahoma City Thunder,60,106,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.8,32.45,32,2,0,40
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,52,121,OKC,Oklahoma City Thunder,52,106,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,22.2,17.25,25,2,3,2
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,22,121,OKC,Oklahoma City Thunder,21,106,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.9,31.95,28,1,2,42
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,22,121,OKC,Oklahoma City Thunder,19,106,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,21.65,26,1,3,33
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,19,121,OKC,Oklahoma City Thunder,16,106,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,20.35,25,1,4,2
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,3,121,OKC,Oklahoma City Thunder,2,106,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,5.2,31.45,26,1,10,30
+2015-16,Stephen Curry,3/3/2016,GSW,Golden State Warriors,0,121,OKC,Oklahoma City Thunder,2,106,FALSE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,22.75,25,1,11,16
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,118,118,GSW,Golden State Warriors,121,121,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,18,37.85,37,5,0,0
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,112,118,GSW,Golden State Warriors,110,121,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.8,23.75,24,5,1,58
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,110,118,GSW,Golden State Warriors,110,121,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.7,27.55,25,5,2,29
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,108,118,GSW,Golden State Warriors,107,121,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,0.9,30.65,25,5,3,53
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,98,118,GSW,Golden State Warriors,96,121,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-6,30.95,26,4,1,37
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,96,118,GSW,Golden State Warriors,92,121,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-7.8,30.15,26,4,2,53
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,77,118,GSW,Golden State Warriors,78,121,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,7.9,28.65,24,3,1,0
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,77,118,GSW,Golden State Warriors,78,121,TRUE,Step Back Jump shot,Above the Break 3,Center,C,24+ ft.,6.6,28.15,23,3,1,22
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,77,118,GSW,Golden State Warriors,75,121,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,4.8,31.45,26,3,1,49
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,75,118,GSW,Golden State Warriors,73,121,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,21.65,24,3,2,41
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,71,118,GSW,Golden State Warriors,68,121,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,28.65,27,3,4,4
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,42,118,GSW,Golden State Warriors,41,121,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.3,26.65,27,2,4,25
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,42,118,GSW,Golden State Warriors,38,121,TRUE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23,5.55,23,2,4,44
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,40,118,GSW,Golden State Warriors,33,121,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-3.3,29.45,24,2,5,45
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,26,118,GSW,Golden State Warriors,14,121,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,30.95,28,1,3,3
+2015-16,Stephen Curry,2/27/2016,OKC,Oklahoma City Thunder,8,118,GSW,Golden State Warriors,5,121,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.1,27.35,23,1,9,52
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,110,114,GSW,Golden State Warriors,123,130,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,26.05,25,4,2,55
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,107,114,GSW,Golden State Warriors,123,130,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-7.3,31.65,27,4,3,24
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,91,114,GSW,Golden State Warriors,99,130,TRUE,Jump Bank Shot,Above the Break 3,Back Court,BC,Back Court Shot,18.6,45.25,44,3,0,0
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,84,114,GSW,Golden State Warriors,91,130,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,26.25,26,3,1,58
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,84,114,GSW,Golden State Warriors,88,130,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,24.75,24,3,2,17
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,82,114,GSW,Golden State Warriors,85,130,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,22.95,24,3,2,52
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,80,114,GSW,Golden State Warriors,83,130,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,8.9,29.15,25,3,4,10
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,77,114,GSW,Golden State Warriors,78,130,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,17.35,24,3,6,51
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,67,114,GSW,Golden State Warriors,68,130,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15,26.05,25,3,9,40
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,61,114,GSW,Golden State Warriors,57,130,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-7.8,30.95,26,2,0,57
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,47,114,GSW,Golden State Warriors,50,130,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-5.3,28.95,24,2,4,21
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,26,114,GSW,Golden State Warriors,24,130,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,28.95,25,1,2,15
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,23,114,GSW,Golden State Warriors,20,130,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,2,30.65,25,1,4,27
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,17,114,GSW,Golden State Warriors,17,130,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,20.65,25,1,5,45
+2015-16,Stephen Curry,2/25/2016,ORL,Orlando Magic,11,114,GSW,Golden State Warriors,8,130,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.8,28.95,26,1,8,10
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,108,112,GSW,Golden State Warriors,110,118,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-1.2,31.45,26,4,0,39
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,106,112,GSW,Golden State Warriors,107,118,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-0.9,31.95,26,4,1,6
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,98,112,GSW,Golden State Warriors,97,118,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,23.75,24,4,4,59
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,80,112,GSW,Golden State Warriors,80,118,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15,25.05,24,3,0,34
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,78,112,GSW,Golden State Warriors,80,118,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,21.15,24,3,1,12
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,73,112,GSW,Golden State Warriors,70,118,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,19.15,24,3,2,58
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,55,112,GSW,Golden State Warriors,57,118,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,25.25,25,3,11,8
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,45,112,GSW,Golden State Warriors,35,118,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,27.05,25,2,4,52
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,30,112,GSW,Golden State Warriors,21,118,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,42.25,40,1,0,0
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,15,112,GSW,Golden State Warriors,11,118,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.5,9.05,23,1,5,13
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,6,112,GSW,Golden State Warriors,3,118,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.5,25.55,24,1,9,39
+2015-16,Stephen Curry,2/24/2016,MIA,Miami Heat,2,112,GSW,Golden State Warriors,3,118,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,22.65,26,1,10,41
+2015-16,Stephen Curry,2/22/2016,ATL,Atlanta Hawks,87,92,GSW,Golden State Warriors,98,102,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-2.8,31.95,26,4,1,4
+2015-16,Stephen Curry,2/22/2016,ATL,Atlanta Hawks,84,92,GSW,Golden State Warriors,91,102,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,26.55,25,4,3,34
+2015-16,Stephen Curry,2/22/2016,ATL,Atlanta Hawks,84,92,GSW,Golden State Warriors,91,102,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.5,8.35,23,4,4,43
+2015-16,Stephen Curry,2/22/2016,ATL,Atlanta Hawks,57,92,GSW,Golden State Warriors,70,102,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14,25.75,24,3,4,46
+2015-16,Stephen Curry,2/22/2016,ATL,Atlanta Hawks,47,92,GSW,Golden State Warriors,67,102,FALSE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12,26.55,24,3,7,23
+2015-16,Stephen Curry,2/22/2016,ATL,Atlanta Hawks,45,92,GSW,Golden State Warriors,63,102,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16,24.55,25,3,8,52
+2015-16,Stephen Curry,2/22/2016,ATL,Atlanta Hawks,37,92,GSW,Golden State Warriors,51,102,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-7.3,28.15,24,2,2,0
+2015-16,Stephen Curry,2/22/2016,ATL,Atlanta Hawks,37,92,GSW,Golden State Warriors,48,102,TRUE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-22.8,13.75,24,2,2,16
+2015-16,Stephen Curry,2/22/2016,ATL,Atlanta Hawks,9,92,GSW,Golden State Warriors,17,102,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-3.8,29.45,24,1,6,40
+2015-16,Stephen Curry,2/22/2016,ATL,Atlanta Hawks,2,92,GSW,Golden State Warriors,3,102,FALSE,Running Pull-Up Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.8,26.05,25,1,10,6
+2015-16,Stephen Curry,2/22/2016,ATL,Atlanta Hawks,2,92,GSW,Golden State Warriors,3,102,TRUE,Running Pull-Up Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,19.65,24,1,10,22
+2015-16,Stephen Curry,2/20/2016,LAC,Los Angeles Clippers,99,112,GSW,Golden State Warriors,115,115,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,3,31.15,26,4,1,54
+2015-16,Stephen Curry,2/20/2016,LAC,Los Angeles Clippers,99,112,GSW,Golden State Warriors,113,115,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,8.4,30.15,26,4,2,33
+2015-16,Stephen Curry,2/20/2016,LAC,Los Angeles Clippers,99,112,GSW,Golden State Warriors,113,115,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,24.05,25,4,2,57
+2015-16,Stephen Curry,2/20/2016,LAC,Los Angeles Clippers,79,112,GSW,Golden State Warriors,87,115,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,12,28.95,26,3,1,19
+2015-16,Stephen Curry,2/20/2016,LAC,Los Angeles Clippers,67,112,GSW,Golden State Warriors,74,115,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,25.55,25,3,4,49
+2015-16,Stephen Curry,2/20/2016,LAC,Los Angeles Clippers,51,112,GSW,Golden State Warriors,63,115,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,6.8,31.45,27,2,0,42
+2015-16,Stephen Curry,2/20/2016,LAC,Los Angeles Clippers,23,112,GSW,Golden State Warriors,35,115,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-6.3,29.95,25,2,10,31
+2015-16,Stephen Curry,2/20/2016,LAC,Los Angeles Clippers,4,112,GSW,Golden State Warriors,10,115,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-7.4,30.45,26,1,9,27
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,93,137,GSW,Golden State Warriors,75,105,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,23.05,26,3,3,13
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,88,137,GSW,Golden State Warriors,73,105,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-6.9,28.65,24,3,4,47
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,75,137,GSW,Golden State Warriors,69,105,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,26.25,24,3,8,44
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,72,137,GSW,Golden State Warriors,64,105,FALSE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,20.15,24,3,10,36
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,64,137,GSW,Golden State Warriors,60,105,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,28.05,26,2,1,0
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,60,137,GSW,Golden State Warriors,55,105,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.3,24.55,24,2,2,9
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,30,137,GSW,Golden State Warriors,29,105,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,23.75,24,1,1,53
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,25,137,GSW,Golden State Warriors,23,105,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,6.1,28.95,24,1,4,33
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,19,137,GSW,Golden State Warriors,17,105,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,22.7,5.95,22,1,6,48
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,19,137,GSW,Golden State Warriors,14,105,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.5,8.55,23,1,7,6
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,15,137,GSW,Golden State Warriors,14,105,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,11,27.05,24,1,8,5
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,9,137,GSW,Golden State Warriors,9,105,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,8.9,29.45,25,1,8,56
+2015-16,Stephen Curry,2/19/2016,POR,Portland Trail Blazers,7,137,GSW,Golden State Warriors,9,105,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.6,27.55,24,1,9,41
+2015-16,Stephen Curry,2/10/2016,PHX,Phoenix Suns,54,104,GSW,Golden State Warriors,70,112,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,23,15.75,25,3,6,38
+2015-16,Stephen Curry,2/10/2016,PHX,Phoenix Suns,52,104,GSW,Golden State Warriors,66,112,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.7,15.75,24,3,8,21
+2015-16,Stephen Curry,2/10/2016,PHX,Phoenix Suns,50,104,GSW,Golden State Warriors,63,112,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,0,30.45,25,3,8,42
+2015-16,Stephen Curry,2/10/2016,PHX,Phoenix Suns,35,104,GSW,Golden State Warriors,51,112,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13.7,28.45,26,2,2,41
+2015-16,Stephen Curry,2/10/2016,PHX,Phoenix Suns,35,104,GSW,Golden State Warriors,51,112,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,28.65,29,2,3,3
+2015-16,Stephen Curry,2/10/2016,PHX,Phoenix Suns,35,104,GSW,Golden State Warriors,48,112,TRUE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,31.65,28,2,3,29
+2015-16,Stephen Curry,2/10/2016,PHX,Phoenix Suns,22,104,GSW,Golden State Warriors,22,112,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,1.7,29.45,24,1,4,2
+2015-16,Stephen Curry,2/10/2016,PHX,Phoenix Suns,17,104,GSW,Golden State Warriors,22,112,TRUE,Jump Bank Shot,Left Corner 3,Left Side,L,24+ ft.,23.8,8.55,24,1,5,9
+2015-16,Stephen Curry,2/10/2016,PHX,Phoenix Suns,15,104,GSW,Golden State Warriors,17,112,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,25.75,24,1,6,13
+2015-16,Stephen Curry,2/10/2016,PHX,Phoenix Suns,7,104,GSW,Golden State Warriors,10,112,TRUE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.8,7.85,23,1,10,16
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,118,123,HOU,Houston Rockets,108,110,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-1,30.45,25,4,1,22
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,112,123,HOU,Houston Rockets,103,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,22.15,26,4,3,30
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,110,123,HOU,Houston Rockets,99,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21,22.15,26,4,6,23
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,90,123,HOU,Houston Rockets,90,110,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.9,30.15,26,3,1,29
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,90,123,HOU,Houston Rockets,90,110,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,4.5,31.45,26,3,2,2
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,73,123,HOU,Houston Rockets,74,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.1,22.25,25,3,7,12
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,71,123,HOU,Houston Rockets,74,110,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-5.5,30.45,25,3,8,40
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,69,123,HOU,Houston Rockets,74,110,FALSE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,24,5.95,24,3,9,54
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,69,123,HOU,Houston Rockets,68,110,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,3,30.65,25,3,11,30
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,65,123,HOU,Houston Rockets,54,110,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,2.4,36.35,31,2,2,46
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,42,123,HOU,Houston Rockets,27,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13.7,31.65,29,1,0,3
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,38,123,HOU,Houston Rockets,22,110,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,22.25,26,1,1,20
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,30,123,HOU,Houston Rockets,18,110,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,22.8,5.45,22,1,3,2
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,27,123,HOU,Houston Rockets,18,110,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,7,29.45,25,1,3,33
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,24,123,HOU,Houston Rockets,16,110,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.4,22.65,25,1,3,59
+2015-16,Stephen Curry,2/9/2016,GSW,Golden State Warriors,7,123,HOU,Houston Rockets,2,110,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.6,31.15,30,1,10,16
+2015-16,Stephen Curry,2/6/2016,GSW,Golden State Warriors,110,116,OKC,Oklahoma City Thunder,106,108,FALSE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,25.55,27,4,1,20
+2015-16,Stephen Curry,2/6/2016,GSW,Golden State Warriors,103,116,OKC,Oklahoma City Thunder,100,108,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.6,28.95,25,4,4,40
+2015-16,Stephen Curry,2/6/2016,GSW,Golden State Warriors,91,116,OKC,Oklahoma City Thunder,83,108,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.6,28.45,25,3,0,12
+2015-16,Stephen Curry,2/6/2016,GSW,Golden State Warriors,87,116,OKC,Oklahoma City Thunder,74,108,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11,28.45,25,3,3,59
+2015-16,Stephen Curry,2/6/2016,GSW,Golden State Warriors,65,116,OKC,Oklahoma City Thunder,49,108,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,1.2,30.95,25,2,2,23
+2015-16,Stephen Curry,2/6/2016,GSW,Golden State Warriors,31,116,OKC,Oklahoma City Thunder,29,108,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-7.4,29.45,25,1,1,34
+2015-16,Stephen Curry,2/6/2016,GSW,Golden State Warriors,19,116,OKC,Oklahoma City Thunder,23,108,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-3.2,30.95,25,1,5,34
+2015-16,Stephen Curry,2/6/2016,GSW,Golden State Warriors,13,116,OKC,Oklahoma City Thunder,16,108,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.8,31.45,31,1,7,5
+2015-16,Stephen Curry,2/6/2016,GSW,Golden State Warriors,0,116,OKC,Oklahoma City Thunder,7,108,FALSE,Turnaround Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.6,22.75,25,1,10,34
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,106,121,GSW,Golden State Warriors,116,134,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,24.05,28,4,4,22
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,90,121,GSW,Golden State Warriors,100,134,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.3,28.15,26,4,6,22
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,86,121,GSW,Golden State Warriors,100,134,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,30.95,28,3,1,16
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,84,121,GSW,Golden State Warriors,96,134,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,25.55,28,3,2,9
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,83,121,GSW,Golden State Warriors,87,134,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,22.15,26,3,2,48
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,72,121,GSW,Golden State Warriors,79,134,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,28.15,25,3,4,7
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,57,121,GSW,Golden State Warriors,72,134,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,27.05,26,2,0,29
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,20,121,GSW,Golden State Warriors,37,134,TRUE,Fadeaway Jump Shot,Above the Break 3,Center,C,24+ ft.,1.6,30.45,25,1,2,39
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,18,121,GSW,Golden State Warriors,34,134,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.8,25.75,25,1,3,9
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,13,121,GSW,Golden State Warriors,26,134,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.3,5.55,23,1,4,58
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,13,121,GSW,Golden State Warriors,26,134,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,4.8,29.15,24,1,5,27
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,8,121,GSW,Golden State Warriors,21,134,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,12.2,28.05,25,1,6,28
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,8,121,GSW,Golden State Warriors,15,134,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,25.05,27,1,7,36
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,8,121,GSW,Golden State Warriors,12,134,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.9,17.65,25,1,7,59
+2015-16,Stephen Curry,2/3/2016,WAS,Washington Wizards,5,121,GSW,Golden State Warriors,7,134,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,27.05,26,1,9,8
+2015-16,Stephen Curry,1/31/2016,NYK,New York Knicks,79,95,GSW,Golden State Warriors,97,116,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-4.3,30.95,26,4,5,48
+2015-16,Stephen Curry,1/31/2016,NYK,New York Knicks,76,95,GSW,Golden State Warriors,92,116,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,27.05,27,4,7,29
+2015-16,Stephen Curry,1/31/2016,NYK,New York Knicks,58,95,GSW,Golden State Warriors,71,116,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,13.7,25.55,24,3,4,18
+2015-16,Stephen Curry,1/31/2016,NYK,New York Knicks,55,95,GSW,Golden State Warriors,67,116,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-10.9,28.05,25,3,6,22
+2015-16,Stephen Curry,1/31/2016,NYK,New York Knicks,49,95,GSW,Golden State Warriors,55,116,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,25.55,24,3,10,50
+2015-16,Stephen Curry,1/31/2016,NYK,New York Knicks,20,95,GSW,Golden State Warriors,18,116,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.1,29.95,26,1,0,30
+2015-16,Stephen Curry,1/31/2016,NYK,New York Knicks,16,95,GSW,Golden State Warriors,12,116,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,10.6,26.65,23,1,2,59
+2015-16,Stephen Curry,1/31/2016,NYK,New York Knicks,5,95,GSW,Golden State Warriors,7,116,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.2,3.35,23,1,6,23
+2015-16,Stephen Curry,1/31/2016,NYK,New York Knicks,5,95,GSW,Golden State Warriors,7,116,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.8,10.35,24,1,6,27
+2015-16,Stephen Curry,1/31/2016,NYK,New York Knicks,0,95,GSW,Golden State Warriors,0,116,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15,25.25,25,1,10,27
+2015-16,Stephen Curry,1/31/2016,NYK,New York Knicks,0,95,GSW,Golden State Warriors,0,116,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,30.45,27,1,11,42
+2015-16,Stephen Curry,1/30/2016,PHI,Philadelphia 76ers,92,105,GSW,Golden State Warriors,103,108,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-1,33.05,27,4,3,10
+2015-16,Stephen Curry,1/30/2016,PHI,Philadelphia 76ers,90,105,GSW,Golden State Warriors,103,108,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,7.3,29.45,25,4,3,45
+2015-16,Stephen Curry,1/30/2016,PHI,Philadelphia 76ers,83,105,GSW,Golden State Warriors,96,108,TRUE,Step Back Jump shot,Above the Break 3,Center,C,24+ ft.,1.6,30.95,25,4,8,7
+2015-16,Stephen Curry,1/30/2016,PHI,Philadelphia 76ers,62,105,GSW,Golden State Warriors,84,108,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,0.2,31.15,25,3,4,46
+2015-16,Stephen Curry,1/30/2016,PHI,Philadelphia 76ers,62,105,GSW,Golden State Warriors,84,108,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-1,32.15,26,3,5,40
+2015-16,Stephen Curry,1/30/2016,PHI,Philadelphia 76ers,52,105,GSW,Golden State Warriors,69,108,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,8.4,29.15,25,2,0,55
+2015-16,Stephen Curry,1/30/2016,PHI,Philadelphia 76ers,28,105,GSW,Golden State Warriors,34,108,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-4.8,30.45,25,1,0,26
+2015-16,Stephen Curry,1/30/2016,PHI,Philadelphia 76ers,23,105,GSW,Golden State Warriors,32,108,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.7,8.35,23,1,1,52
+2015-16,Stephen Curry,1/30/2016,PHI,Philadelphia 76ers,17,105,GSW,Golden State Warriors,13,108,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.8,22.65,24,1,6,8
+2015-16,Stephen Curry,1/30/2016,PHI,Philadelphia 76ers,8,105,GSW,Golden State Warriors,6,108,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.5,6.65,23,1,8,31
+2015-16,Stephen Curry,1/30/2016,PHI,Philadelphia 76ers,5,105,GSW,Golden State Warriors,6,108,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-23.2,14.25,24,1,9,18
+2015-16,Stephen Curry,1/27/2016,GSW,Golden State Warriors,71,127,DAL,Dallas Mavericks,64,107,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.3,29.45,28,3,6,47
+2015-16,Stephen Curry,1/27/2016,GSW,Golden State Warriors,68,127,DAL,Dallas Mavericks,64,107,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-2.2,31.45,26,3,7,9
+2015-16,Stephen Curry,1/27/2016,GSW,Golden State Warriors,63,127,DAL,Dallas Mavericks,53,107,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,22.15,25,3,10,2
+2015-16,Stephen Curry,1/27/2016,GSW,Golden State Warriors,46,127,DAL,Dallas Mavericks,41,107,FALSE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.7,5.55,23,2,3,44
+2015-16,Stephen Curry,1/27/2016,GSW,Golden State Warriors,20,127,DAL,Dallas Mavericks,11,107,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.3,7.55,23,1,4,45
+2015-16,Stephen Curry,1/27/2016,GSW,Golden State Warriors,20,127,DAL,Dallas Mavericks,6,107,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,22.7,10.35,23,1,5,54
+2015-16,Stephen Curry,1/27/2016,GSW,Golden State Warriors,6,127,DAL,Dallas Mavericks,2,107,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,10.9,31.95,28,1,10,14
+2015-16,Stephen Curry,1/25/2016,GSW,Golden State Warriors,92,120,SAS,San Antonio Spurs,65,90,TRUE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-23,5.15,23,3,1,14
+2015-16,Stephen Curry,1/25/2016,GSW,Golden State Warriors,89,120,SAS,San Antonio Spurs,65,90,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,12.4,31.15,28,3,2,9
+2015-16,Stephen Curry,1/25/2016,GSW,Golden State Warriors,76,120,SAS,San Antonio Spurs,56,90,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.9,29.15,25,3,7,24
+2015-16,Stephen Curry,1/25/2016,GSW,Golden State Warriors,76,120,SAS,San Antonio Spurs,56,90,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,4,32.55,27,3,7,55
+2015-16,Stephen Curry,1/25/2016,GSW,Golden State Warriors,73,120,SAS,San Antonio Spurs,54,90,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-1.4,30.95,25,3,8,20
+2015-16,Stephen Curry,1/25/2016,GSW,Golden State Warriors,25,120,SAS,San Antonio Spurs,16,90,TRUE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-22.7,8.55,22,1,1,31
+2015-16,Stephen Curry,1/25/2016,GSW,Golden State Warriors,14,120,SAS,San Antonio Spurs,7,90,TRUE,Fadeaway Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,25.75,26,1,7,23
+2015-16,Stephen Curry,1/25/2016,GSW,Golden State Warriors,9,120,SAS,San Antonio Spurs,4,90,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-4,32.95,27,1,8,51
+2015-16,Stephen Curry,1/25/2016,GSW,Golden State Warriors,2,120,SAS,San Antonio Spurs,2,90,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.8,8.35,24,1,11,3
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,112,122,IND,Indiana Pacers,98,110,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.3,7.05,23,4,3,26
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,109,122,IND,Indiana Pacers,96,110,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,28.05,25,4,4,16
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,84,122,IND,Indiana Pacers,73,110,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,28.15,27,3,0,42
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,73,122,IND,Indiana Pacers,61,110,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-8.2,30.65,26,3,5,49
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,73,122,IND,Indiana Pacers,61,110,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,22.8,7.05,22,3,6,26
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,70,122,IND,Indiana Pacers,59,110,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.8,9.35,23,3,6,59
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,70,122,IND,Indiana Pacers,59,110,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,28.05,25,3,7,58
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,67,122,IND,Indiana Pacers,59,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,28.45,24,3,8,13
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,64,122,IND,Indiana Pacers,51,110,TRUE,Jump Bank Shot,Backcourt,Back Court,BC,Back Court Shot,-11.7,51.95,48,2,0,1
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,61,122,IND,Indiana Pacers,51,110,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,32.15,28,2,0,28
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,48,122,IND,Indiana Pacers,39,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,26.25,24,2,4,48
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,30,122,IND,Indiana Pacers,17,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.7,28.95,25,1,1,57
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,20,122,IND,Indiana Pacers,8,110,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,1.6,31.15,25,1,6,23
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,7,122,IND,Indiana Pacers,4,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13.7,28.45,26,1,9,42
+2015-16,Stephen Curry,1/22/2016,GSW,Golden State Warriors,7,122,IND,Indiana Pacers,2,110,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,26.55,24,1,10,37
+2015-16,Stephen Curry,1/20/2016,CHI,Chicago Bulls,84,94,GSW,Golden State Warriors,104,125,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,23.55,25,4,5,14
+2015-16,Stephen Curry,1/20/2016,CHI,Chicago Bulls,82,94,GSW,Golden State Warriors,104,125,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-4,30.45,25,4,5,54
+2015-16,Stephen Curry,1/20/2016,CHI,Chicago Bulls,61,94,GSW,Golden State Warriors,76,125,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13.7,25.55,24,3,2,56
+2015-16,Stephen Curry,1/20/2016,CHI,Chicago Bulls,59,94,GSW,Golden State Warriors,73,125,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-1.7,30.15,24,3,3,57
+2015-16,Stephen Curry,1/20/2016,CHI,Chicago Bulls,54,94,GSW,Golden State Warriors,67,125,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,12,28.45,26,3,6,35
+2015-16,Stephen Curry,1/20/2016,CHI,Chicago Bulls,17,94,GSW,Golden State Warriors,29,125,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.6,25.55,25,1,0,43
+2015-16,Stephen Curry,1/20/2016,CHI,Chicago Bulls,8,94,GSW,Golden State Warriors,7,125,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.2,28.45,24,1,7,57
+2015-16,Stephen Curry,1/20/2016,CHI,Chicago Bulls,6,94,GSW,Golden State Warriors,5,125,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-4.3,28.95,24,1,8,42
+2015-16,Stephen Curry,1/20/2016,CHI,Chicago Bulls,2,94,GSW,Golden State Warriors,0,125,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,26.25,25,1,10,54
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,67,98,GSW,Golden State Warriors,104,132,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.1,28.65,25,3,0,11
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,64,98,GSW,Golden State Warriors,104,132,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-6.3,30.15,25,3,0,41
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,52,98,GSW,Golden State Warriors,87,132,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,13.2,30.95,28,3,4,33
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,52,98,GSW,Golden State Warriors,87,132,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,24.5,6.55,24,3,5,4
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,51,98,GSW,Golden State Warriors,84,132,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,20.35,26,3,6,58
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,44,98,GSW,Golden State Warriors,79,132,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.7,18.65,25,3,9,42
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,44,98,GSW,Golden State Warriors,79,132,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13.3,25.55,24,3,10,33
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,19,98,GSW,Golden State Warriors,34,132,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.3,16.75,24,1,0,58
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,19,98,GSW,Golden State Warriors,31,132,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,5,31.95,27,1,1,18
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,11,98,GSW,Golden State Warriors,18,132,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21,16.75,23,1,5,49
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,7,98,GSW,Golden State Warriors,15,132,FALSE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,21.25,24,1,6,46
+2015-16,Stephen Curry,1/18/2016,CLE,Cleveland Cavaliers,2,98,GSW,Golden State Warriors,5,132,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,12.5,30.65,28,1,11,3
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,107,113,GSW,Golden State Warriors,90,95,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-23.3,15.25,25,4,3,15
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,101,113,GSW,Golden State Warriors,81,95,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,30.45,26,4,6,31
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,85,113,GSW,Golden State Warriors,73,95,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.8,9.35,24,3,0,31
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,83,113,GSW,Golden State Warriors,73,95,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,28.65,26,3,1,30
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,78,113,GSW,Golden State Warriors,66,95,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.9,29.45,25,3,3,18
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,78,113,GSW,Golden State Warriors,66,95,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,28.65,26,3,3,57
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,71,113,GSW,Golden State Warriors,59,95,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.1,26.55,26,3,6,17
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,70,113,GSW,Golden State Warriors,56,95,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.3,19.35,25,3,7,5
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,56,113,GSW,Golden State Warriors,47,95,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-7.1,31.95,27,2,1,33
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,49,113,GSW,Golden State Warriors,38,95,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,25.05,27,2,5,0
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,44,113,GSW,Golden State Warriors,33,95,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,6,32.15,27,2,6,38
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,25,113,GSW,Golden State Warriors,24,95,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,26.55,26,1,1,45
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,21,113,GSW,Golden State Warriors,16,95,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.7,33.45,29,1,3,44
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,5,113,GSW,Golden State Warriors,2,95,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.5,29.15,26,1,10,16
+2015-16,Stephen Curry,1/16/2016,DET,Detroit Pistons,0,113,GSW,Golden State Warriors,0,95,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,26.05,26,1,11,43
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,84,116,LAL,Los Angeles Lakers,70,98,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,29.95,30,3,0,29
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,73,116,LAL,Los Angeles Lakers,68,98,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.9,24.25,25,3,3,50
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,73,116,LAL,Los Angeles Lakers,66,98,TRUE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.8,10.85,24,3,4,22
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,68,116,LAL,Los Angeles Lakers,63,98,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.5,27.55,26,3,5,29
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,65,116,LAL,Los Angeles Lakers,61,98,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,21.65,24,3,6,44
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,63,116,LAL,Los Angeles Lakers,57,98,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.7,19.65,24,3,8,19
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,52,116,LAL,Los Angeles Lakers,49,98,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.5,9.95,23,2,0,20
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,52,116,LAL,Los Angeles Lakers,49,98,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.7,21.15,25,2,0,26
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,50,116,LAL,Los Angeles Lakers,47,98,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.9,29.45,26,2,1,10
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,42,116,LAL,Los Angeles Lakers,40,98,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,21.15,26,2,4,15
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,24,116,LAL,Los Angeles Lakers,23,98,FALSE,Jump Shot,Backcourt,Back Court,BC,Back Court Shot,4.2,66.35,61,1,0,0
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,16,116,LAL,Los Angeles Lakers,13,98,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,23.05,26,1,4,3
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,16,116,LAL,Los Angeles Lakers,10,98,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,24.25,26,1,4,54
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,13,116,LAL,Los Angeles Lakers,10,98,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-4.3,31.95,27,1,6,2
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,10,116,LAL,Los Angeles Lakers,8,98,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,0.7,31.15,25,1,7,42
+2015-16,Stephen Curry,1/14/2016,GSW,Golden State Warriors,5,116,LAL,Los Angeles Lakers,4,98,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,23.05,27,1,9,15
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,109,112,GSW,Golden State Warriors,107,110,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,35.55,33,4,0,37
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,104,112,GSW,Golden State Warriors,100,110,TRUE,Fadeaway Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15,24.25,24,4,1,44
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,94,112,GSW,Golden State Warriors,88,110,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,25.05,27,4,5,13
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,79,112,GSW,Golden State Warriors,71,110,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,10.1,29.95,26,3,0,39
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,70,112,GSW,Golden State Warriors,68,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,26.05,24,3,3,3
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,62,112,GSW,Golden State Warriors,66,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.8,27.05,25,3,6,28
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,53,112,GSW,Golden State Warriors,52,110,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,8.6,28.95,25,2,0,45
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,51,112,GSW,Golden State Warriors,52,110,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.4,26.25,26,2,1,24
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,46,112,GSW,Golden State Warriors,40,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15,26.05,25,2,3,21
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,27,112,GSW,Golden State Warriors,22,110,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,23.05,25,1,0,46
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,9,112,GSW,Golden State Warriors,6,110,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,26.05,25,1,8,23
+2015-16,Stephen Curry,1/13/2016,DEN,Denver Nuggets,4,112,GSW,Golden State Warriors,1,110,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,28.45,25,1,9,43
+2015-16,Stephen Curry,1/11/2016,GSW,Golden State Warriors,110,111,MIA,Miami Heat,101,103,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,28.45,25,4,0,26
+2015-16,Stephen Curry,1/11/2016,GSW,Golden State Warriors,101,111,MIA,Miami Heat,88,103,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,14,27.05,25,4,4,52
+2015-16,Stephen Curry,1/11/2016,GSW,Golden State Warriors,98,111,MIA,Miami Heat,88,103,FALSE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22.2,20.15,26,4,5,10
+2015-16,Stephen Curry,1/11/2016,GSW,Golden State Warriors,80,111,MIA,Miami Heat,77,103,FALSE,Jump Shot,Backcourt,Back Court,BC,Back Court Shot,-13.3,54.85,51,3,0,0
+2015-16,Stephen Curry,1/11/2016,GSW,Golden State Warriors,80,111,MIA,Miami Heat,73,103,FALSE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-22.7,3.35,22,3,0,48
+2015-16,Stephen Curry,1/11/2016,GSW,Golden State Warriors,69,111,MIA,Miami Heat,59,103,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,26.55,27,3,5,43
+2015-16,Stephen Curry,1/11/2016,GSW,Golden State Warriors,66,111,MIA,Miami Heat,59,103,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,28.65,29,3,7,14
+2015-16,Stephen Curry,1/11/2016,GSW,Golden State Warriors,52,111,MIA,Miami Heat,54,103,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,24.05,27,2,1,26
+2015-16,Stephen Curry,1/11/2016,GSW,Golden State Warriors,49,111,MIA,Miami Heat,49,103,FALSE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,28.05,24,2,2,28
+2015-16,Stephen Curry,1/11/2016,GSW,Golden State Warriors,25,111,MIA,Miami Heat,25,103,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-10.7,29.45,26,1,0,51
+2015-16,Stephen Curry,1/11/2016,GSW,Golden State Warriors,7,111,MIA,Miami Heat,2,103,TRUE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.3,6.35,23,1,9,18
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,116,116,GSW,Golden State Warriors,125,128,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,22.15,26,4,0,52
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,102,116,GSW,Golden State Warriors,118,128,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.2,6.85,23,4,4,23
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,99,116,GSW,Golden State Warriors,115,128,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.9,22.65,25,4,5,4
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,78,116,GSW,Golden State Warriors,90,128,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,22.5,17.25,25,3,1,54
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,76,116,GSW,Golden State Warriors,83,128,FALSE,Step Back Jump shot,Above the Break 3,Center,C,24+ ft.,1.9,29.95,24,3,3,5
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,56,116,GSW,Golden State Warriors,57,128,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.3,22.65,27,2,0,32
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,52,116,GSW,Golden State Warriors,54,128,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.8,28.05,27,2,1,33
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,48,116,GSW,Golden State Warriors,51,128,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-4.6,33.05,28,2,2,20
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,43,116,GSW,Golden State Warriors,43,128,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,4.3,30.15,25,2,4,21
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,39,116,GSW,Golden State Warriors,36,128,TRUE,Fadeaway Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.6,22.15,24,2,6,48
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,21,116,GSW,Golden State Warriors,16,128,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,8.4,29.15,25,1,3,42
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,6,116,GSW,Golden State Warriors,8,128,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22,18.35,25,1,8,5
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,6,116,GSW,Golden State Warriors,8,128,TRUE,Step Back Jump shot,Right Corner 3,Right Side,R,24+ ft.,-22.5,6.85,22,1,8,32
+2015-16,Stephen Curry,1/9/2016,SAC,Sacramento Kings,6,116,GSW,Golden State Warriors,5,128,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-4.6,29.65,24,1,9,19
+2015-16,Stephen Curry,1/8/2016,POR,Portland Trail Blazers,87,108,GSW,Golden State Warriors,106,128,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,26.65,28,3,0,9
+2015-16,Stephen Curry,1/8/2016,POR,Portland Trail Blazers,82,108,GSW,Golden State Warriors,101,128,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,23.25,26,3,1,34
+2015-16,Stephen Curry,1/8/2016,POR,Portland Trail Blazers,80,108,GSW,Golden State Warriors,101,128,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12,26.55,24,3,2,23
+2015-16,Stephen Curry,1/8/2016,POR,Portland Trail Blazers,75,108,GSW,Golden State Warriors,96,128,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-1.2,29.45,24,3,3,7
+2015-16,Stephen Curry,1/8/2016,POR,Portland Trail Blazers,70,108,GSW,Golden State Warriors,92,128,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-6.3,28.95,24,3,4,36
+2015-16,Stephen Curry,1/8/2016,POR,Portland Trail Blazers,55,108,GSW,Golden State Warriors,78,128,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,25.55,25,3,10,27
+2015-16,Stephen Curry,1/8/2016,POR,Portland Trail Blazers,52,108,GSW,Golden State Warriors,74,128,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.1,25.25,25,2,0,25
+2015-16,Stephen Curry,1/8/2016,POR,Portland Trail Blazers,35,108,GSW,Golden State Warriors,51,128,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,18.65,24,2,6,31
+2015-16,Stephen Curry,1/8/2016,POR,Portland Trail Blazers,4,108,GSW,Golden State Warriors,12,128,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,13.5,25.75,24,1,6,56
+2015-16,Stephen Curry,1/8/2016,POR,Portland Trail Blazers,2,108,GSW,Golden State Warriors,9,128,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.7,5.95,22,1,8,5
+2015-16,Stephen Curry,1/8/2016,POR,Portland Trail Blazers,0,108,GSW,Golden State Warriors,3,128,TRUE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.7,6.05,22,1,11,0
+2015-16,Stephen Curry,1/5/2016,LAL,Los Angeles Lakers,49,88,GSW,Golden State Warriors,64,109,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.7,3.15,23,3,5,34
+2015-16,Stephen Curry,1/5/2016,LAL,Los Angeles Lakers,44,88,GSW,Golden State Warriors,62,109,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.4,24.05,24,3,9,43
+2015-16,Stephen Curry,1/5/2016,LAL,Los Angeles Lakers,40,88,GSW,Golden State Warriors,55,109,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,26.65,25,2,0,9
+2015-16,Stephen Curry,1/5/2016,LAL,Los Angeles Lakers,37,88,GSW,Golden State Warriors,48,109,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.5,3.75,23,2,2,50
+2015-16,Stephen Curry,1/5/2016,LAL,Los Angeles Lakers,34,88,GSW,Golden State Warriors,48,109,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,23.05,25,2,6,38
+2015-16,Stephen Curry,1/5/2016,LAL,Los Angeles Lakers,18,88,GSW,Golden State Warriors,28,109,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,23.05,26,2,7,9
+2015-16,Stephen Curry,1/5/2016,LAL,Los Angeles Lakers,0,88,GSW,Golden State Warriors,6,109,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,24.55,24,1,10,36
+2015-16,Stephen Curry,1/4/2016,GSW,Golden State Warriors,111,111,CHA,Charlotte Hornets,101,101,FALSE,Fadeaway Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,23.55,26,4,0,42
+2015-16,Stephen Curry,1/4/2016,GSW,Golden State Warriors,106,111,CHA,Charlotte Hornets,93,101,FALSE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,25.05,27,4,3,4
+2015-16,Stephen Curry,1/4/2016,GSW,Golden State Warriors,104,111,CHA,Charlotte Hornets,87,101,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-1.2,30.95,25,4,5,34
+2015-16,Stephen Curry,1/4/2016,GSW,Golden State Warriors,81,111,CHA,Charlotte Hornets,69,101,TRUE,Fadeaway Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,19.15,24,3,5,18
+2015-16,Stephen Curry,1/4/2016,GSW,Golden State Warriors,76,111,CHA,Charlotte Hornets,65,101,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.8,26.55,26,3,7,1
+2015-16,Stephen Curry,1/4/2016,GSW,Golden State Warriors,60,111,CHA,Charlotte Hornets,48,101,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,3.4,31.95,26,2,1,50
+2015-16,Stephen Curry,1/4/2016,GSW,Golden State Warriors,49,111,CHA,Charlotte Hornets,39,101,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-1.9,32.45,27,2,6,55
+2015-16,Stephen Curry,1/4/2016,GSW,Golden State Warriors,14,111,CHA,Charlotte Hornets,13,101,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.5,5.15,22,1,6,38
+2015-16,Stephen Curry,1/4/2016,GSW,Golden State Warriors,12,111,CHA,Charlotte Hornets,6,101,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,22.75,27,1,8,19
+2015-16,Stephen Curry,1/4/2016,GSW,Golden State Warriors,3,111,CHA,Charlotte Hornets,2,101,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.6,23.25,25,1,11,19
+2015-16,Stephen Curry,1/2/2016,GSW,Golden State Warriors,52,111,DEN,Denver Nuggets,37,108,FALSE,Turnaround Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,20.65,25,2,3,7
+2015-16,Stephen Curry,1/2/2016,GSW,Golden State Warriors,50,111,DEN,Denver Nuggets,33,108,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,22.5,18.15,25,2,4,25
+2015-16,Stephen Curry,1/2/2016,GSW,Golden State Warriors,50,111,DEN,Denver Nuggets,33,108,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.6,26.55,27,2,4,48
+2015-16,Stephen Curry,1/2/2016,GSW,Golden State Warriors,23,111,DEN,Denver Nuggets,4,108,FALSE,Step Back Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.7,9.85,24,1,5,21
+2015-16,Stephen Curry,1/2/2016,GSW,Golden State Warriors,19,111,DEN,Denver Nuggets,2,108,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-23,15.25,25,1,7,28
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,90,122,SAC,Sacramento Kings,75,103,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,27.55,26,3,0,3
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,81,122,SAC,Sacramento Kings,71,103,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.5,8.05,23,3,4,10
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,64,122,SAC,Sacramento Kings,62,103,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,24.55,25,3,10,38
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,58,122,SAC,Sacramento Kings,59,103,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,30.95,28,2,0,21
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,53,122,SAC,Sacramento Kings,56,103,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,2.2,32.95,27,2,0,51
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,50,122,SAC,Sacramento Kings,53,103,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,5.5,31.45,26,2,1,8
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,47,122,SAC,Sacramento Kings,53,103,TRUE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,22.5,5.15,22,2,2,13
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,44,122,SAC,Sacramento Kings,47,103,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.7,22.15,25,2,3,16
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,41,122,SAC,Sacramento Kings,43,103,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-2.2,30.65,25,2,4,43
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,39,122,SAC,Sacramento Kings,43,103,FALSE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,18.65,24,2,5,27
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,23,122,SAC,Sacramento Kings,15,103,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,5.2,31.15,26,1,4,13
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,6,122,SAC,Sacramento Kings,4,103,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,6.1,29.45,24,1,9,28
+2015-16,Stephen Curry,12/28/2015,GSW,Golden State Warriors,1,122,SAC,Sacramento Kings,0,103,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-2.2,30.45,25,1,11,7
+2015-16,Stephen Curry,12/25/2015,GSW,Golden State Warriors,85,89,CLE,Cleveland Cavaliers,80,83,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,25.25,26,4,0,28
+2015-16,Stephen Curry,12/25/2015,GSW,Golden State Warriors,61,89,CLE,Cleveland Cavaliers,56,83,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.2,29.95,26,3,3,5
+2015-16,Stephen Curry,12/25/2015,GSW,Golden State Warriors,45,89,CLE,Cleveland Cavaliers,42,83,FALSE,Jump Shot,Backcourt,Back Court,BC,Back Court Shot,0,76.45,71,2,0,1
+2015-16,Stephen Curry,12/25/2015,GSW,Golden State Warriors,24,89,CLE,Cleveland Cavaliers,15,83,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,26.55,29,1,2,15
+2015-16,Stephen Curry,12/23/2015,GSW,Golden State Warriors,86,103,UTA,Utah Jazz,73,85,TRUE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.8,9.55,24,4,5,53
+2015-16,Stephen Curry,12/23/2015,GSW,Golden State Warriors,65,103,UTA,Utah Jazz,51,85,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,24.1,6.35,24,3,2,4
+2015-16,Stephen Curry,12/23/2015,GSW,Golden State Warriors,59,103,UTA,Utah Jazz,49,85,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.3,7.85,23,3,3,46
+2015-16,Stephen Curry,12/23/2015,GSW,Golden State Warriors,59,103,UTA,Utah Jazz,49,85,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,27.05,27,3,4,15
+2015-16,Stephen Curry,12/23/2015,GSW,Golden State Warriors,47,103,UTA,Utah Jazz,38,85,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.8,24.25,24,2,0,2
+2015-16,Stephen Curry,12/23/2015,GSW,Golden State Warriors,15,103,UTA,Utah Jazz,11,85,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,22.8,9.05,23,1,4,55
+2015-16,Stephen Curry,12/23/2015,GSW,Golden State Warriors,13,103,UTA,Utah Jazz,9,85,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.2,29.45,25,1,7,13
+2015-16,Stephen Curry,12/23/2015,GSW,Golden State Warriors,5,103,UTA,Utah Jazz,2,85,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-4.6,29.65,24,1,10,48
+2015-16,Stephen Curry,12/18/2015,GSW,Golden State Warriors,115,121,MIL,Milwaukee Bucks,110,112,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.7,17.25,24,4,0,51
+2015-16,Stephen Curry,12/18/2015,GSW,Golden State Warriors,58,121,MIL,Milwaukee Bucks,70,112,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,21.15,25,2,0,5
+2015-16,Stephen Curry,12/18/2015,GSW,Golden State Warriors,58,121,MIL,Milwaukee Bucks,68,112,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-4.2,30.45,25,2,0,26
+2015-16,Stephen Curry,12/18/2015,GSW,Golden State Warriors,33,121,MIL,Milwaukee Bucks,36,112,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,23.55,27,1,0,1
+2015-16,Stephen Curry,12/18/2015,GSW,Golden State Warriors,24,121,MIL,Milwaukee Bucks,22,112,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,22.75,26,1,4,52
+2015-16,Stephen Curry,12/18/2015,GSW,Golden State Warriors,3,121,MIL,Milwaukee Bucks,0,112,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.8,24.25,24,1,11,20
+2015-16,Stephen Curry,12/16/2015,GSW,Golden State Warriors,59,128,PHX,Phoenix Suns,46,103,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,6.6,31.65,27,2,1,4
+2015-16,Stephen Curry,12/16/2015,GSW,Golden State Warriors,59,128,PHX,Phoenix Suns,46,103,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.3,26.05,25,2,1,41
+2015-16,Stephen Curry,12/16/2015,GSW,Golden State Warriors,51,128,PHX,Phoenix Suns,44,103,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.2,28.95,25,2,3,7
+2015-16,Stephen Curry,12/16/2015,GSW,Golden State Warriors,19,128,PHX,Phoenix Suns,24,103,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,10.7,27.65,24,1,2,3
+2015-16,Stephen Curry,12/16/2015,GSW,Golden State Warriors,16,128,PHX,Phoenix Suns,13,103,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,29.95,27,1,4,28
+2015-16,Stephen Curry,12/12/2015,MIL,Milwaukee Bucks,?,108,GSW,Golden State Warriors,?,95,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-0.3,29.75,24,3,8,18
+2015-16,Stephen Curry,12/12/2015,MIL,Milwaukee Bucks,97,108,GSW,Golden State Warriors,88,95,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,29.45,26,4,3,39
+2015-16,Stephen Curry,12/12/2015,MIL,Milwaukee Bucks,95,108,GSW,Golden State Warriors,86,95,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.3,26.65,26,4,4,44
+2015-16,Stephen Curry,12/12/2015,MIL,Milwaukee Bucks,91,108,GSW,Golden State Warriors,79,95,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-6,29.15,24,4,6,38
+2015-16,Stephen Curry,12/12/2015,MIL,Milwaukee Bucks,70,108,GSW,Golden State Warriors,64,95,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.6,30.95,27,3,5,49
+2015-16,Stephen Curry,12/12/2015,MIL,Milwaukee Bucks,30,108,GSW,Golden State Warriors,18,95,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.7,4.15,23,1,1,15
+2015-16,Stephen Curry,12/12/2015,MIL,Milwaukee Bucks,18,108,GSW,Golden State Warriors,14,95,TRUE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.2,4.15,22,1,5,16
+2015-16,Stephen Curry,12/12/2015,MIL,Milwaukee Bucks,14,108,GSW,Golden State Warriors,7,95,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.3,19.15,25,1,7,16
+2015-16,Stephen Curry,12/12/2015,MIL,Milwaukee Bucks,2,108,GSW,Golden State Warriors,0,95,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,7.4,33.45,29,1,11,7
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,110,119,GSW,Golden State Warriors,110,124,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,24.75,26,5,0,23
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,105,119,GSW,Golden State Warriors,108,124,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.5,26.65,25,5,1,41
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,101,119,GSW,Golden State Warriors,103,124,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,2.4,34.05,28,4,0,46
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,99,119,GSW,Golden State Warriors,96,124,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-1.9,31.45,26,4,2,31
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,92,119,GSW,Golden State Warriors,94,124,TRUE,Fadeaway Jump Shot,Above the Break 3,Center,C,24+ ft.,-4.2,29.95,25,4,5,40
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,56,119,GSW,Golden State Warriors,64,124,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-2,29.95,24,3,10,32
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,53,119,GSW,Golden State Warriors,57,124,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.8,28.95,26,2,0,7
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,51,119,GSW,Golden State Warriors,52,124,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21,21.65,26,2,2,0
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,45,119,GSW,Golden State Warriors,47,124,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,28.05,29,2,4,13
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,43,119,GSW,Golden State Warriors,44,124,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,20.15,24,2,4,59
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,12,119,GSW,Golden State Warriors,10,124,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.6,31.95,26,1,6,9
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,10,119,GSW,Golden State Warriors,10,124,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,28.45,27,1,7,45
+2015-16,Stephen Curry,12/11/2015,BOS,Boston Celtics,3,119,GSW,Golden State Warriors,7,124,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14,27.55,26,1,9,23
+2015-16,Stephen Curry,12/8/2015,IND,Indiana Pacers,80,123,GSW,Golden State Warriors,109,131,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,26.05,26,4,3,7
+2015-16,Stephen Curry,12/8/2015,IND,Indiana Pacers,60,123,GSW,Golden State Warriors,79,131,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.7,26.05,28,3,0,30
+2015-16,Stephen Curry,12/8/2015,IND,Indiana Pacers,51,123,GSW,Golden State Warriors,68,131,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21,19.65,25,2,0,5
+2015-16,Stephen Curry,12/8/2015,IND,Indiana Pacers,49,123,GSW,Golden State Warriors,62,131,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.8,17.25,24,2,3,3
+2015-16,Stephen Curry,12/8/2015,IND,Indiana Pacers,49,123,GSW,Golden State Warriors,62,131,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,20.65,25,2,3,50
+2015-16,Stephen Curry,12/8/2015,IND,Indiana Pacers,28,123,GSW,Golden State Warriors,42,131,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14,25.55,24,1,0,32
+2015-16,Stephen Curry,12/8/2015,IND,Indiana Pacers,21,123,GSW,Golden State Warriors,37,131,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,24.55,26,1,1,53
+2015-16,Stephen Curry,12/8/2015,IND,Indiana Pacers,21,123,GSW,Golden State Warriors,32,131,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,24.05,26,1,3,8
+2015-16,Stephen Curry,12/8/2015,IND,Indiana Pacers,17,123,GSW,Golden State Warriors,15,131,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,24.55,27,1,7,7
+2015-16,Stephen Curry,12/8/2015,IND,Indiana Pacers,0,123,GSW,Golden State Warriors,0,131,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,27.05,25,1,11,47
+2015-16,Stephen Curry,12/6/2015,BKN,Brooklyn Nets,80,98,GSW,Golden State Warriors,87,114,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,18.15,24,3,0,1
+2015-16,Stephen Curry,12/6/2015,BKN,Brooklyn Nets,76,98,GSW,Golden State Warriors,79,114,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,26.55,27,3,1,45
+2015-16,Stephen Curry,12/6/2015,BKN,Brooklyn Nets,72,98,GSW,Golden State Warriors,70,114,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.3,3.15,23,3,3,23
+2015-16,Stephen Curry,12/6/2015,BKN,Brooklyn Nets,70,98,GSW,Golden State Warriors,70,114,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23,8.35,23,3,4,7
+2015-16,Stephen Curry,12/6/2015,BKN,Brooklyn Nets,68,98,GSW,Golden State Warriors,67,114,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,22,16.25,24,3,4,37
+2015-16,Stephen Curry,12/6/2015,BKN,Brooklyn Nets,58,98,GSW,Golden State Warriors,59,114,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,0,30.15,24,3,10,16
+2015-16,Stephen Curry,12/6/2015,BKN,Brooklyn Nets,42,98,GSW,Golden State Warriors,57,114,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,10.6,32.15,28,2,1,49
+2015-16,Stephen Curry,12/6/2015,BKN,Brooklyn Nets,6,98,GSW,Golden State Warriors,16,114,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.2,21.25,24,1,6,27
+2015-16,Stephen Curry,12/6/2015,BKN,Brooklyn Nets,4,98,GSW,Golden State Warriors,12,114,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,23.2,14.75,25,1,7,36
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,102,109,GSW,Golden State Warriors,102,112,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,4.5,30.45,25,4,1,52
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,100,109,GSW,Golden State Warriors,102,112,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-0.2,30.15,24,4,2,33
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,98,109,GSW,Golden State Warriors,98,112,TRUE,Running Pull-Up Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.4,30.45,25,4,3,37
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,96,109,GSW,Golden State Warriors,95,112,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21,25.05,28,4,4,23
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,87,109,GSW,Golden State Warriors,90,112,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,23.25,25,4,7,6
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,77,109,GSW,Golden State Warriors,81,112,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,20.85,24,3,1,5
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,75,109,GSW,Golden State Warriors,81,112,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.8,6.05,23,3,1,50
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,51,109,GSW,Golden State Warriors,59,112,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-0.6,29.45,24,3,11,20
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,46,109,GSW,Golden State Warriors,51,112,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,16.75,24,2,2,10
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,15,109,GSW,Golden State Warriors,26,112,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,0.2,29.45,24,1,2,40
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,10,109,GSW,Golden State Warriors,21,112,FALSE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,28.95,25,1,6,5
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,10,109,GSW,Golden State Warriors,21,112,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-5,29.45,24,1,6,39
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,10,109,GSW,Golden State Warriors,11,112,TRUE,Running Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.8,7.85,22,1,8,26
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,10,109,GSW,Golden State Warriors,8,112,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.4,29.45,24,1,8,49
+2015-16,Stephen Curry,12/5/2015,TOR,Toronto Raptors,5,109,GSW,Golden State Warriors,3,112,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.3,24.25,24,1,10,18
+2015-16,Stephen Curry,12/2/2015,CHA,Charlotte Hornets,72,99,GSW,Golden State Warriors,93,116,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.8,30.95,30,3,0,3
+2015-16,Stephen Curry,12/2/2015,CHA,Charlotte Hornets,70,99,GSW,Golden State Warriors,90,116,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,10.1,31.95,28,3,0,33
+2015-16,Stephen Curry,12/2/2015,CHA,Charlotte Hornets,68,99,GSW,Golden State Warriors,85,116,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,31.45,29,3,1,29
+2015-16,Stephen Curry,12/2/2015,CHA,Charlotte Hornets,66,99,GSW,Golden State Warriors,82,116,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,6.3,29.45,25,3,1,53
+2015-16,Stephen Curry,12/2/2015,CHA,Charlotte Hornets,64,99,GSW,Golden State Warriors,77,116,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.5,6.85,23,3,3,59
+2015-16,Stephen Curry,12/2/2015,CHA,Charlotte Hornets,42,99,GSW,Golden State Warriors,56,116,TRUE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.2,7.05,23,2,2,18
+2015-16,Stephen Curry,12/2/2015,CHA,Charlotte Hornets,23,99,GSW,Golden State Warriors,30,116,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-1.2,30.45,25,1,0,37
+2015-16,Stephen Curry,12/2/2015,CHA,Charlotte Hornets,13,99,GSW,Golden State Warriors,26,116,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-10.4,34.35,30,1,4,57
+2015-16,Stephen Curry,12/2/2015,CHA,Charlotte Hornets,13,99,GSW,Golden State Warriors,26,116,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-1.9,35.35,30,1,5,21
+2015-16,Stephen Curry,12/2/2015,CHA,Charlotte Hornets,11,99,GSW,Golden State Warriors,23,116,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.8,16.85,24,1,5,44
+2015-16,Stephen Curry,12/2/2015,CHA,Charlotte Hornets,4,99,GSW,Golden State Warriors,4,116,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.8,6.35,23,1,10,42
+2015-16,Stephen Curry,11/30/2015,UTA,Utah Jazz,101,103,GSW,Golden State Warriors,104,106,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,21.75,26,4,0,51
+2015-16,Stephen Curry,11/30/2015,UTA,Utah Jazz,96,103,GSW,Golden State Warriors,97,106,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,2,30.65,25,4,2,24
+2015-16,Stephen Curry,11/30/2015,UTA,Utah Jazz,90,103,GSW,Golden State Warriors,90,106,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,26.05,23,4,6,20
+2015-16,Stephen Curry,11/30/2015,UTA,Utah Jazz,71,103,GSW,Golden State Warriors,76,106,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.3,23.05,24,3,2,34
+2015-16,Stephen Curry,11/30/2015,UTA,Utah Jazz,67,103,GSW,Golden State Warriors,71,106,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,20.85,25,3,4,21
+2015-16,Stephen Curry,11/30/2015,UTA,Utah Jazz,44,103,GSW,Golden State Warriors,51,106,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,4.7,30.95,26,2,1,24
+2015-16,Stephen Curry,11/30/2015,UTA,Utah Jazz,11,103,GSW,Golden State Warriors,10,106,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.4,22.75,23,1,7,27
+2015-16,Stephen Curry,11/30/2015,UTA,Utah Jazz,2,103,GSW,Golden State Warriors,3,106,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,20.15,25,1,11,12
+2015-16,Stephen Curry,11/28/2015,GSW,Golden State Warriors,75,120,SAC,Sacramento Kings,54,101,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,6.6,30.65,26,3,6,44
+2015-16,Stephen Curry,11/28/2015,GSW,Golden State Warriors,26,120,SAC,Sacramento Kings,27,101,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.2,29.45,25,1,0,57
+2015-16,Stephen Curry,11/28/2015,GSW,Golden State Warriors,17,120,SAC,Sacramento Kings,20,101,TRUE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.8,24.55,24,1,3,4
+2015-16,Stephen Curry,11/28/2015,GSW,Golden State Warriors,11,120,SAC,Sacramento Kings,16,101,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,20.15,25,1,5,18
+2015-16,Stephen Curry,11/28/2015,GSW,Golden State Warriors,4,120,SAC,Sacramento Kings,10,101,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-5.1,30.95,26,1,8,15
+2015-16,Stephen Curry,11/28/2015,GSW,Golden State Warriors,0,120,SAC,Sacramento Kings,2,101,FALSE,Step Back Jump shot,Above the Break 3,Center,C,24+ ft.,-0.9,29.95,24,1,11,14
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,81,116,GSW,Golden State Warriors,103,135,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,43.45,43,3,0,0
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,79,116,GSW,Golden State Warriors,103,135,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,10.2,28.45,25,3,0,55
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,77,116,GSW,Golden State Warriors,98,135,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.7,21.25,25,3,2,24
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,77,116,GSW,Golden State Warriors,95,135,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,22.7,4.15,22,3,2,29
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,70,116,GSW,Golden State Warriors,88,135,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.7,16.25,24,3,5,31
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,70,116,GSW,Golden State Warriors,85,135,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.7,27.15,23,3,5,53
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,59,116,GSW,Golden State Warriors,77,135,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,10.1,30.15,26,3,9,54
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,57,116,GSW,Golden State Warriors,75,135,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-4.8,30.15,25,2,0,0
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,57,116,GSW,Golden State Warriors,75,135,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,28.15,26,2,0,34
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,43,116,GSW,Golden State Warriors,60,135,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,26.55,25,2,6,7
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,25,116,GSW,Golden State Warriors,44,135,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,22.25,24,1,0,34
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,23,116,GSW,Golden State Warriors,39,135,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,24.05,25,1,1,3
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,19,116,GSW,Golden State Warriors,39,135,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,22.75,24,1,1,52
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,14,116,GSW,Golden State Warriors,32,135,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,20.15,25,1,3,53
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,10,116,GSW,Golden State Warriors,24,135,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,27.55,25,1,5,48
+2015-16,Stephen Curry,11/27/2015,PHX,Phoenix Suns,0,116,GSW,Golden State Warriors,5,135,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.5,5.95,23,1,10,27
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,85,111,LAL,Los Angeles Lakers,53,77,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,28.95,27,3,1,2
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,81,111,LAL,Los Angeles Lakers,51,77,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.8,28.15,27,3,1,48
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,67,111,LAL,Los Angeles Lakers,44,77,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,7.6,30.45,26,3,5,50
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,63,111,LAL,Los Angeles Lakers,44,77,TRUE,Pullup Jump shot,Right Corner 3,Right Side,R,24+ ft.,-23.2,7.55,23,3,7,11
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,60,111,LAL,Los Angeles Lakers,44,77,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,25.55,26,3,8,17
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,54,111,LAL,Los Angeles Lakers,38,77,FALSE,Jump Shot,Backcourt,Back Court,BC,Back Court Shot,-16.3,56.95,54,2,0,0
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,30,111,LAL,Los Angeles Lakers,11,77,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.5,28.05,25,1,0,13
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,30,111,LAL,Los Angeles Lakers,11,77,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,29.15,25,1,0,46
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,20,111,LAL,Los Angeles Lakers,7,77,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.4,23.25,25,1,3,19
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,13,111,LAL,Los Angeles Lakers,7,77,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-0.4,31.95,26,1,5,35
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,8,111,LAL,Los Angeles Lakers,5,77,TRUE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.3,9.95,23,1,8,28
+2015-16,Stephen Curry,11/24/2015,GSW,Golden State Warriors,3,111,LAL,Los Angeles Lakers,0,77,FALSE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15,25.75,25,1,10,20
+2015-16,Stephen Curry,11/22/2015,DEN,Denver Nuggets,73,105,GSW,Golden State Warriors,86,118,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22.5,14.25,24,3,2,30
+2015-16,Stephen Curry,11/22/2015,DEN,Denver Nuggets,62,105,GSW,Golden State Warriors,71,118,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-3,30.65,25,3,9,15
+2015-16,Stephen Curry,11/22/2015,DEN,Denver Nuggets,58,105,GSW,Golden State Warriors,68,118,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-3.2,30.15,25,3,10,27
+2015-16,Stephen Curry,11/22/2015,DEN,Denver Nuggets,49,105,GSW,Golden State Warriors,50,118,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.4,26.55,26,2,2,26
+2015-16,Stephen Curry,11/22/2015,DEN,Denver Nuggets,17,105,GSW,Golden State Warriors,22,118,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.9,25.75,26,1,3,35
+2015-16,Stephen Curry,11/22/2015,DEN,Denver Nuggets,15,105,GSW,Golden State Warriors,20,118,TRUE,Fadeaway Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-24,4.75,24,1,4,17
+2015-16,Stephen Curry,11/22/2015,DEN,Denver Nuggets,7,105,GSW,Golden State Warriors,9,118,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,22.75,25,1,8,25
+2015-16,Stephen Curry,11/22/2015,DEN,Denver Nuggets,5,105,GSW,Golden State Warriors,9,118,FALSE,Fadeaway Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,21.25,25,1,8,50
+2015-16,Stephen Curry,11/20/2015,GSW,Golden State Warriors,92,106,CHI,Chicago Bulls,89,94,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,6.5,30.45,26,4,4,28
+2015-16,Stephen Curry,11/20/2015,GSW,Golden State Warriors,92,106,CHI,Chicago Bulls,89,94,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,2.9,30.45,25,4,5,26
+2015-16,Stephen Curry,11/20/2015,GSW,Golden State Warriors,89,106,CHI,Chicago Bulls,89,94,FALSE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14,26.05,25,4,5,33
+2015-16,Stephen Curry,11/20/2015,GSW,Golden State Warriors,69,106,CHI,Chicago Bulls,70,94,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.9,18.65,25,3,3,13
+2015-16,Stephen Curry,11/20/2015,GSW,Golden State Warriors,56,106,CHI,Chicago Bulls,54,94,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.6,26.55,26,3,9,10
+2015-16,Stephen Curry,11/20/2015,GSW,Golden State Warriors,42,106,CHI,Chicago Bulls,44,94,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,27.55,25,2,2,30
+2015-16,Stephen Curry,11/20/2015,GSW,Golden State Warriors,26,106,CHI,Chicago Bulls,29,94,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15,27.15,26,1,0,36
+2015-16,Stephen Curry,11/20/2015,GSW,Golden State Warriors,20,106,CHI,Chicago Bulls,25,94,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-7.9,30.15,26,1,3,12
+2015-16,Stephen Curry,11/20/2015,GSW,Golden State Warriors,12,106,CHI,Chicago Bulls,19,94,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,27.05,27,1,5,48
+2015-16,Stephen Curry,11/20/2015,GSW,Golden State Warriors,11,106,CHI,Chicago Bulls,12,94,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22.8,16.85,25,1,7,1
+2015-16,Stephen Curry,11/20/2015,GSW,Golden State Warriors,7,106,CHI,Chicago Bulls,6,94,TRUE,Jump Bank Shot,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,26.55,24,1,9,50
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,115,117,GSW,Golden State Warriors,116,124,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,4.7,29.45,24,4,1,47
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,115,117,GSW,Golden State Warriors,113,124,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.5,26.55,25,4,2,3
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,109,117,GSW,Golden State Warriors,102,124,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,23.05,25,4,5,33
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,105,117,GSW,Golden State Warriors,99,124,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,12.5,27.05,25,4,6,31
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,89,117,GSW,Golden State Warriors,82,124,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-7.1,28.95,24,3,1,1
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,84,117,GSW,Golden State Warriors,76,124,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-4.8,31.15,26,3,3,32
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,79,117,GSW,Golden State Warriors,68,124,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,12,28.45,26,3,6,28
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,72,117,GSW,Golden State Warriors,57,124,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.6,26.55,26,3,10,18
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,68,117,GSW,Golden State Warriors,54,124,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.8,28.45,27,2,0,6
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,55,117,GSW,Golden State Warriors,32,124,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,7,30.45,26,2,6,45
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,50,117,GSW,Golden State Warriors,32,124,TRUE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.6,7.35,23,2,7,54
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,48,117,GSW,Golden State Warriors,27,124,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,26.65,26,2,10,1
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,2,117,GSW,Golden State Warriors,3,124,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,5.8,32.45,27,1,10,39
+2015-16,Stephen Curry,11/19/2015,LAC,Los Angeles Clippers,0,117,GSW,Golden State Warriors,3,124,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,23.05,26,1,11,8
+2015-16,Stephen Curry,11/17/2015,GSW,Golden State Warriors,101,115,TOR,Toronto Raptors,98,110,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,0.4,30.95,25,4,5,18
+2015-16,Stephen Curry,11/17/2015,GSW,Golden State Warriors,82,115,TOR,Toronto Raptors,75,110,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,25.75,25,3,3,15
+2015-16,Stephen Curry,11/17/2015,GSW,Golden State Warriors,75,115,TOR,Toronto Raptors,67,110,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,12.2,29.15,26,3,5,16
+2015-16,Stephen Curry,11/17/2015,GSW,Golden State Warriors,63,115,TOR,Toronto Raptors,45,110,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,3,30.45,25,2,1,25
+2015-16,Stephen Curry,11/17/2015,GSW,Golden State Warriors,57,115,TOR,Toronto Raptors,45,110,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,2.7,30.45,25,2,2,8
+2015-16,Stephen Curry,11/17/2015,GSW,Golden State Warriors,29,115,TOR,Toronto Raptors,25,110,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-10.9,28.45,25,1,0,19
+2015-16,Stephen Curry,11/17/2015,GSW,Golden State Warriors,21,115,TOR,Toronto Raptors,23,110,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.3,6.35,23,1,1,52
+2015-16,Stephen Curry,11/17/2015,GSW,Golden State Warriors,20,115,TOR,Toronto Raptors,23,110,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.8,23.75,25,1,2,8
+2015-16,Stephen Curry,11/17/2015,GSW,Golden State Warriors,20,115,TOR,Toronto Raptors,21,110,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,-6.4,30.45,26,1,2,39
+2015-16,Stephen Curry,11/17/2015,GSW,Golden State Warriors,0,115,TOR,Toronto Raptors,0,110,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.2,9.85,23,1,11,3
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,99,107,BKN,Brooklyn Nets,97,99,FALSE,Turnaround Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.5,23.75,24,5,4,0
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,84,107,BKN,Brooklyn Nets,85,99,TRUE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.5,9.95,23,4,5,24
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,79,107,BKN,Brooklyn Nets,85,99,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,25.25,24,4,6,28
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,79,107,BKN,Brooklyn Nets,83,99,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,19.35,25,4,7,27
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,70,107,BKN,Brooklyn Nets,75,99,FALSE,Pullup Bank shot,Above the Break 3,Center,C,24+ ft.,-1,31.45,26,3,0,25
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,70,107,BKN,Brooklyn Nets,75,99,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.1,29.45,25,3,0,30
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,70,107,BKN,Brooklyn Nets,73,99,FALSE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12,28.45,26,3,1,11
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,68,107,BKN,Brooklyn Nets,71,99,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,22.25,25,3,3,13
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,59,107,BKN,Brooklyn Nets,64,99,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.8,26.65,27,3,7,43
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,55,107,BKN,Brooklyn Nets,58,99,FALSE,Fadeaway Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,25.05,25,3,10,28
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,43,107,BKN,Brooklyn Nets,44,99,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,6.8,29.45,25,2,3,9
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,21,107,BKN,Brooklyn Nets,36,99,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,27.15,25,1,0,30
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,16,107,BKN,Brooklyn Nets,27,99,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,24.25,26,1,3,27
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,10,107,BKN,Brooklyn Nets,15,99,FALSE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,6.3,31.15,26,1,7,21
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,5,107,BKN,Brooklyn Nets,7,99,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.7,6.05,22,1,10,3
+2015-16,Stephen Curry,11/14/2015,GSW,Golden State Warriors,2,107,BKN,Brooklyn Nets,4,99,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,22.3,18.65,26,1,10,51
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,116,116,GSW,Golden State Warriors,129,129,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-5.1,30.95,26,4,0,29
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,110,116,GSW,Golden State Warriors,121,129,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.4,26.55,27,4,2,54
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,108,116,GSW,Golden State Warriors,114,129,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,26.55,26,4,4,58
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,103,116,GSW,Golden State Warriors,112,129,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-7.6,30.45,26,4,5,51
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,78,116,GSW,Golden State Warriors,97,129,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,5.8,29.95,25,3,2,1
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,76,116,GSW,Golden State Warriors,97,129,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,21.15,24,3,2,39
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,76,116,GSW,Golden State Warriors,94,129,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11.2,28.45,25,3,3,6
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,50,116,GSW,Golden State Warriors,62,129,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,27.65,27,2,4,13
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,27,116,GSW,Golden State Warriors,40,129,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-9.1,27.65,24,1,0,12
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,19,116,GSW,Golden State Warriors,33,129,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23,7.85,23,1,2,13
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,10,116,GSW,Golden State Warriors,22,129,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,24,6.85,24,1,6,51
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,2,116,GSW,Golden State Warriors,13,129,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.5,12.75,24,1,9,48
+2015-16,Stephen Curry,11/12/2015,MIN,Minnesota Timberwolves,0,116,GSW,Golden State Warriors,7,129,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.5,28.65,27,1,10,54
+2015-16,Stephen Curry,11/11/2015,MEM,Memphis Grizzlies,73,84,GSW,Golden State Warriors,86,100,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,22.8,3.75,22,4,5,32
+2015-16,Stephen Curry,11/11/2015,MEM,Memphis Grizzlies,63,84,GSW,Golden State Warriors,74,100,TRUE,Running Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,39.45,39,3,0,0
+2015-16,Stephen Curry,11/11/2015,MEM,Memphis Grizzlies,59,84,GSW,Golden State Warriors,68,100,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.8,28.45,28,3,1,19
+2015-16,Stephen Curry,11/11/2015,MEM,Memphis Grizzlies,58,84,GSW,Golden State Warriors,65,100,TRUE,Driving Bank shot,Above the Break 3,Left Side Center,LC,24+ ft.,8.9,32.45,28,3,2,26
+2015-16,Stephen Curry,11/11/2015,MEM,Memphis Grizzlies,47,84,GSW,Golden State Warriors,54,100,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,10.7,28.45,25,3,7,8
+2015-16,Stephen Curry,11/11/2015,MEM,Memphis Grizzlies,41,84,GSW,Golden State Warriors,47,100,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-4.6,31.65,26,2,0,4
+2015-16,Stephen Curry,11/11/2015,MEM,Memphis Grizzlies,30,84,GSW,Golden State Warriors,39,100,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-11,28.45,25,2,3,52
+2015-16,Stephen Curry,11/11/2015,MEM,Memphis Grizzlies,11,84,GSW,Golden State Warriors,18,100,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,28.05,26,1,3,42
+2015-16,Stephen Curry,11/11/2015,MEM,Memphis Grizzlies,7,84,GSW,Golden State Warriors,9,100,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.5,8.55,23,1,8,34
+2015-16,Stephen Curry,11/11/2015,MEM,Memphis Grizzlies,4,84,GSW,Golden State Warriors,6,100,FALSE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.6,25.05,25,1,9,31
+2015-16,Stephen Curry,11/9/2015,GSW,Golden State Warriors,101,109,DET,Detroit Pistons,84,95,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,0.6,31.15,25,4,4,1
+2015-16,Stephen Curry,11/9/2015,GSW,Golden State Warriors,70,109,DET,Detroit Pistons,58,95,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,21.25,24,3,4,37
+2015-16,Stephen Curry,11/9/2015,GSW,Golden State Warriors,63,109,DET,Detroit Pistons,51,95,TRUE,Jump Bank Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15,26.55,26,3,8,40
+2015-16,Stephen Curry,11/9/2015,GSW,Golden State Warriors,60,109,DET,Detroit Pistons,49,95,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,22.8,5.45,22,3,10,9
+2015-16,Stephen Curry,11/9/2015,GSW,Golden State Warriors,41,109,DET,Detroit Pistons,35,95,FALSE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13.7,26.05,24,2,4,8
+2015-16,Stephen Curry,11/9/2015,GSW,Golden State Warriors,34,109,DET,Detroit Pistons,29,95,TRUE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.4,18.65,25,2,7,25
+2015-16,Stephen Curry,11/9/2015,GSW,Golden State Warriors,20,109,DET,Detroit Pistons,15,95,FALSE,Step Back Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.2,8.35,23,1,1,34
+2015-16,Stephen Curry,11/7/2015,SAC,Sacramento Kings,88,94,GSW,Golden State Warriors,97,103,TRUE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.5,7.35,23,4,0,42
+2015-16,Stephen Curry,11/7/2015,SAC,Sacramento Kings,79,94,GSW,Golden State Warriors,81,103,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-7.1,31.65,27,4,5,43
+2015-16,Stephen Curry,11/7/2015,SAC,Sacramento Kings,68,94,GSW,Golden State Warriors,72,103,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13,26.55,24,3,0,20
+2015-16,Stephen Curry,11/7/2015,SAC,Sacramento Kings,55,94,GSW,Golden State Warriors,58,103,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22.7,14.25,24,3,5,23
+2015-16,Stephen Curry,11/7/2015,SAC,Sacramento Kings,55,94,GSW,Golden State Warriors,58,103,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.7,9.85,23,3,5,31
+2015-16,Stephen Curry,11/7/2015,SAC,Sacramento Kings,52,94,GSW,Golden State Warriors,53,103,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.3,25.75,23,3,7,21
+2015-16,Stephen Curry,11/7/2015,SAC,Sacramento Kings,32,94,GSW,Golden State Warriors,40,103,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-10.4,28.65,25,2,1,57
+2015-16,Stephen Curry,11/7/2015,SAC,Sacramento Kings,12,94,GSW,Golden State Warriors,18,103,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.7,12.25,24,1,0,53
+2015-16,Stephen Curry,11/7/2015,SAC,Sacramento Kings,12,94,GSW,Golden State Warriors,14,103,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,16.6,25.65,26,1,1,48
+2015-16,Stephen Curry,11/7/2015,SAC,Sacramento Kings,5,94,GSW,Golden State Warriors,2,103,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,27.55,27,1,8,45
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,112,119,DEN,Denver Nuggets,99,104,FALSE,Step Back Jump shot,Above the Break 3,Center,C,24+ ft.,-5.5,30.45,25,4,3,55
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,92,119,DEN,Denver Nuggets,71,104,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22.7,15.85,25,3,3,1
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,87,119,DEN,Denver Nuggets,65,104,FALSE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.2,5.95,23,3,4,57
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,87,119,DEN,Denver Nuggets,63,104,TRUE,Step Back Jump shot,Right Corner 3,Right Side,R,24+ ft.,-22.7,6.35,22,3,5,58
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,84,119,DEN,Denver Nuggets,63,104,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.05,23,3,6,3
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,74,119,DEN,Denver Nuggets,51,104,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,6.6,31.45,27,3,10,43
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,74,119,DEN,Denver Nuggets,44,104,TRUE,Turnaround Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,18.65,25,2,0,25
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,68,119,DEN,Denver Nuggets,39,104,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,25.25,25,2,1,6
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,40,119,DEN,Denver Nuggets,23,104,FALSE,Jump Shot,Backcourt,Back Court,BC,Back Court Shot,21.2,49.15,48,1,0,0
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,40,119,DEN,Denver Nuggets,23,104,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,28.05,26,1,0,6
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,37,119,DEN,Denver Nuggets,22,104,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.3,5.15,23,1,1,16
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,36,119,DEN,Denver Nuggets,20,104,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,8.1,30.45,26,1,2,54
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,29,119,DEN,Denver Nuggets,17,104,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,23.55,26,1,4,8
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,24,119,DEN,Denver Nuggets,15,104,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.3,20.15,25,1,5,12
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,24,119,DEN,Denver Nuggets,12,104,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,19.15,25,1,5,37
+2015-16,Stephen Curry,11/6/2015,GSW,Golden State Warriors,14,119,DEN,Denver Nuggets,4,104,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,21.15,25,1,8,17
+2015-16,Stephen Curry,11/4/2015,GSW,Golden State Warriors,108,112,LAC,Los Angeles Clippers,106,108,TRUE,Running Jump Shot,Above the Break 3,Center,C,24+ ft.,7.4,30.95,26,4,1,8
+2015-16,Stephen Curry,11/4/2015,GSW,Golden State Warriors,103,112,LAC,Los Angeles Clippers,99,108,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-10.1,30.15,26,4,4,56
+2015-16,Stephen Curry,11/4/2015,GSW,Golden State Warriors,100,112,LAC,Los Angeles Clippers,99,108,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,9.1,28.05,24,4,5,32
+2015-16,Stephen Curry,11/4/2015,GSW,Golden State Warriors,77,112,LAC,Los Angeles Clippers,75,108,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,25.55,26,3,2,35
+2015-16,Stephen Curry,11/4/2015,GSW,Golden State Warriors,77,112,LAC,Los Angeles Clippers,73,108,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,5.6,29.95,25,3,3,38
+2015-16,Stephen Curry,11/4/2015,GSW,Golden State Warriors,73,112,LAC,Los Angeles Clippers,66,108,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.8,32.45,30,3,7,49
+2015-16,Stephen Curry,11/4/2015,GSW,Golden State Warriors,57,112,LAC,Los Angeles Clippers,50,108,TRUE,Step Back Jump shot,Above the Break 3,Center,C,24+ ft.,-4.3,29.95,25,2,2,8
+2015-16,Stephen Curry,11/4/2015,GSW,Golden State Warriors,47,112,LAC,Los Angeles Clippers,34,108,FALSE,Pullup Jump shot,Left Corner 3,Left Side,L,24+ ft.,23.5,5.55,23,2,5,57
+2015-16,Stephen Curry,11/4/2015,GSW,Golden State Warriors,46,112,LAC,Los Angeles Clippers,29,108,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,12.2,31.65,29,2,7,56
+2015-16,Stephen Curry,11/4/2015,GSW,Golden State Warriors,40,112,LAC,Los Angeles Clippers,27,108,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.1,27.55,26,2,9,42
+2015-16,Stephen Curry,11/4/2015,GSW,Golden State Warriors,3,112,LAC,Los Angeles Clippers,2,108,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,4.3,29.95,25,1,11,17
+2015-16,Stephen Curry,11/2/2015,GSW,Golden State Warriors,81,119,MEM,Memphis Grizzlies,42,69,TRUE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.8,4.75,22,3,4,58
+2015-16,Stephen Curry,11/2/2015,GSW,Golden State Warriors,78,119,MEM,Memphis Grizzlies,42,69,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-23.2,14.75,25,3,5,32
+2015-16,Stephen Curry,11/2/2015,GSW,Golden State Warriors,62,119,MEM,Memphis Grizzlies,38,69,TRUE,Step Back Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.3,26.25,25,3,9,5
+2015-16,Stephen Curry,11/2/2015,GSW,Golden State Warriors,42,119,MEM,Memphis Grizzlies,29,69,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,25.55,26,2,2,48
+2015-16,Stephen Curry,11/2/2015,GSW,Golden State Warriors,19,119,MEM,Memphis Grizzlies,22,69,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-6.9,28.95,24,1,0,59
+2015-16,Stephen Curry,11/2/2015,GSW,Golden State Warriors,13,119,MEM,Memphis Grizzlies,13,69,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,23.55,27,1,6,14
+2015-16,Stephen Curry,11/2/2015,GSW,Golden State Warriors,9,119,MEM,Memphis Grizzlies,8,69,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,2,29.95,24,1,8,5
+2015-16,Stephen Curry,11/2/2015,GSW,Golden State Warriors,3,119,MEM,Memphis Grizzlies,0,69,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,21,24.05,28,1,10,36
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,115,120,GSW,Golden State Warriors,131,134,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22.2,15.25,24,4,1,0
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,115,120,GSW,Golden State Warriors,127,134,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.5,31.15,29,4,2,11
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,91,120,GSW,Golden State Warriors,105,134,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-3.8,31.95,26,3,0,9
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,89,120,GSW,Golden State Warriors,104,134,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.4,23.75,26,3,0,39
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,83,120,GSW,Golden State Warriors,91,134,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,22.25,25,3,3,49
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,72,120,GSW,Golden State Warriors,78,134,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.1,24.05,26,3,7,40
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,70,120,GSW,Golden State Warriors,75,134,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,22.5,17.25,25,3,8,5
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,70,120,GSW,Golden State Warriors,70,134,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,29.95,28,3,9,12
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,67,120,GSW,Golden State Warriors,67,134,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,7.8,30.15,26,3,9,53
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,52,120,GSW,Golden State Warriors,57,134,FALSE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-23.6,4.15,23,2,3,47
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,23,120,GSW,Golden State Warriors,28,134,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,29.15,26,1,2,5
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,23,120,GSW,Golden State Warriors,25,134,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.1,28.45,29,1,4,3
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,15,120,GSW,Golden State Warriors,15,134,FALSE,Jump Shot,Above the Break 3,Center,C,24+ ft.,-7.6,31.65,27,1,6,30
+2015-16,Stephen Curry,10/31/2015,NOP,New Orleans Pelicans,10,120,GSW,Golden State Warriors,12,134,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-19.7,29.65,31,1,7,42
+2015-16,Stephen Curry,10/30/2015,HOU,Houston Rockets,76,92,GSW,Golden State Warriors,101,112,FALSE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.7,28.15,24,4,4,44
+2015-16,Stephen Curry,10/30/2015,HOU,Houston Rockets,40,92,GSW,Golden State Warriors,53,112,FALSE,Pullup Jump shot,Above the Break 3,Left Side Center,LC,24+ ft.,11.5,27.65,25,2,1,56
+2015-16,Stephen Curry,10/30/2015,HOU,Houston Rockets,37,92,GSW,Golden State Warriors,51,112,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,24,15.25,26,2,4,5
+2015-16,Stephen Curry,10/30/2015,HOU,Houston Rockets,35,92,GSW,Golden State Warriors,40,112,FALSE,Jump Shot,Left Corner 3,Left Side,L,24+ ft.,23.5,3.65,23,2,6,50
+2015-16,Stephen Curry,10/30/2015,HOU,Houston Rockets,20,92,GSW,Golden State Warriors,21,112,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-22.2,15.85,24,1,3,5
+2015-16,Stephen Curry,10/30/2015,HOU,Houston Rockets,14,92,GSW,Golden State Warriors,14,112,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,12.9,26.65,24,1,6,23
+2015-16,Stephen Curry,10/30/2015,HOU,Houston Rockets,8,92,GSW,Golden State Warriors,14,112,TRUE,Pullup Jump shot,Above the Break 3,Center,C,24+ ft.,5.2,34.05,29,1,7,52
+2015-16,Stephen Curry,10/30/2015,HOU,Houston Rockets,8,92,GSW,Golden State Warriors,9,112,TRUE,Jump Shot,Right Corner 3,Right Side,R,24+ ft.,-22.8,13.95,24,1,8,56
+2015-16,Stephen Curry,10/30/2015,HOU,Houston Rockets,8,92,GSW,Golden State Warriors,6,112,TRUE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,17.65,24,1,9,22
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,85,111,NOP,New Orleans Pelicans,68,95,TRUE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,22.25,25,3,3,23
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,79,111,NOP,New Orleans Pelicans,64,95,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.1,25.55,25,3,5,19
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,57,111,NOP,New Orleans Pelicans,47,95,FALSE,Pullup Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,20.35,25,2,1,16
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,55,111,NOP,New Orleans Pelicans,47,95,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,22.65,24,2,2,11
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,45,111,NOP,New Orleans Pelicans,44,95,FALSE,Jump Shot,Above the Break 3,Right Side Center,RC,24+ ft.,-16.4,23.75,24,2,6,3
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,39,111,NOP,New Orleans Pelicans,35,95,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,18.6,39.75,39,1,0,1
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,32,111,NOP,New Orleans Pelicans,23,95,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,15.6,28.45,27,1,3,6
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,32,111,NOP,New Orleans Pelicans,20,95,TRUE,Step Back Jump shot,Above the Break 3,Right Side Center,RC,24+ ft.,-8.9,29.15,25,1,3,57
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,25,111,NOP,New Orleans Pelicans,18,95,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,28.05,28,1,5,3
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,17,111,NOP,New Orleans Pelicans,13,95,TRUE,Jump Shot,Above the Break 3,Center,C,24+ ft.,1.1,31.15,25,1,6,45
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,10,111,NOP,New Orleans Pelicans,7,95,TRUE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,19.7,24.55,27,1,9,13
+2015-16,Stephen Curry,10/27/2015,GSW,Golden State Warriors,5,111,NOP,New Orleans Pelicans,2,95,FALSE,Jump Shot,Above the Break 3,Left Side Center,LC,24+ ft.,17.6,24.75,26,1,10,29

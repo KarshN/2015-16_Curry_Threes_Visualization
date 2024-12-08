@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.0/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <canvas class="p5Canvas" width="500" height="100" id="topBar"></canvas>
+    <div id="canvases">
+      <canvas id="defaultCanvas0" class="p5Canvas"  style="width: 900px; height: 500px;" width="900" height="500"></canvas>
+    </div>
+    <canvas id="sideBarCanvas" class="p5Canvas" width="300" height="600"></canvas>
+    <h3>Shot options</h3>
+   <div>
+      <label>Camera:</label>
+      <select name="camera" id="camera">
+        <option value="side">Side</option>
+        <option value="auto">Auto</option>
+        <option value="fixed">Fixed</option>
+        <option value="free">Free</option>
+      </select>
+  </div>
+    <a href="credits.html"><img src="credits.png" height="50px" width="150px"></a>
+    <script src="script.js"></script>
+    <script src="topBar.js"></script>
+    <script src="sideBar.js"></script>
+  </body>
+</html>

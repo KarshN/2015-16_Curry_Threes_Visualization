@@ -1,0 +1,26 @@
+
+#topBar{
+    position: absolute;
+}
+#defaultCanvas0{
+    margin-top:100px;
+    position: absolute;
+}
+#sideBarCanvas{
+    margin-left:900px;
+}
+img{
+    position:absolute;
+    margin-top:-50px;
+    margin-left: 300px;
+}
+h3,label{
+    margin-left:100px;
+}
+select{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
