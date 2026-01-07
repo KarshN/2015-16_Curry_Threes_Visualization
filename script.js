@@ -21,7 +21,7 @@ var cameraTypeElement=document.getElementById("camera")
 function setup() {
     createCanvas(900, 500,WEBGL,WebGLCanvas);
     rows=table.getRows();
-    angleMode(degrees)
+    angleMode(DEGREES)
     //scale is 5 pixels to 1 foot
 }
 var courtWidth=50*5
