@@ -48,6 +48,7 @@ function topBar(e){
     var stageAdvanced=false;
     var textFrame=0;
     var textDone=false;
+    var frameCount=0;
     let homeMinus=0;
     let awayMinus=0;
     e.setup=function() {
@@ -145,6 +146,7 @@ function topBar(e){
                     this.scrollY=((this.options.length*this.height)-(90-(this.y+this.height)))*(this.scrollBarY/((90-(this.y+this.height))-this.scrollBarHeight))
                     this.scrollBarHeight=(90-(this.y+this.height))/(this.options.length*this.height/(90-(this.y+this.height)))
                 }
+                frameCount+=1;
             }
             this.inSelection=function(number){
                 for(let s=0;s<this.selection.length;s++){
