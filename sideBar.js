@@ -127,7 +127,7 @@ function sideBar(e){
                     e.fill("black")
                     e.noStroke()
                     e.textSize(20)
-                    e.textStyle(BOLD)
+                    e.textStyle(e.BOLD)
                     if(rows[shotsOrdered[s]].getString("SHOT_MADE")=="TRUE"){
                         e.fill(83,179,51)
                         e.text("MAKE",96.5+extraX,110+110*s-scrollY)
@@ -135,7 +135,7 @@ function sideBar(e){
                         e.fill(227,49,34)
                         e.text("MISS",96.5+extraX,110+110*s-scrollY)
                     }
-                    e.textStyle(NORMAL)
+                    e.textStyle(e.NORMAL)
                     e.fill("black")
                     e.textSize(25)
                     //logos
@@ -206,9 +206,9 @@ function sideBar(e){
         e.fill("blue")
         e.textSize(30)
         e.textFont("Courier New")
-        e.textStyle(BOLD)
+        e.textStyle(e.BOLD)
         e.text("Shots Data",35,50)
-        e.textStyle(NORMAL)
+        e.textStyle(e.NORMAL)
         e.noFill()
         e.stroke("blue")
         e.strokeWeight(10)
