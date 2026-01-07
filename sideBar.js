@@ -13,8 +13,8 @@ function sideBar(e){
     var mouseP=[-1,-1];
     e.setup=function() {
         e.createCanvas(250, 600,sideBarCanvas);
-        e.angleMode(DEGREES)
-        e.rectMode(CORNER)
+        e.angleMode(e.DEGREES)
+        e.rectMode(e.CORNER)
     }
     function orderList(list){
         var makes=[]
