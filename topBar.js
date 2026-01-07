@@ -53,8 +53,8 @@ function topBar(e){
     let awayMinus=0;
     e.setup=function() {
         e.createCanvas(900, 100,topBarCanvas);
-        e.angleMode(e.DEGREES)
-        e.rectMode(e.CORNER)
+        e.angleMode(e.DEGREES);
+        e.rectMode(e.CORNER);
     }
     function limitText(string,characters,lastString){
         let returnText="";
